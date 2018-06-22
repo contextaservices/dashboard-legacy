@@ -1,0 +1,2529 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<AudioDoc name="Call1_2_6389852116045867772_1_46" path="Call1_2_6389852116045867772_1_46.wav">
+  <SpeakerList>
+    <Speaker ch="1" gender="1" lang="dut" spkid="M1"/>
+    <Speaker ch="1" gender="2" lang="dut" spkid="M2"/>
+  </SpeakerList>
+  <SegmentList>
+    <SpeechSegment spkid="M1">
+      <Word dur="0.81" stime="1.03"> goedemorgen u spreek met </Word>
+      <Word dur="0.31" stime="2.29">ria </Word>
+      <Word dur="0.28" stime="2.62"> eisendoorn waarmee kan ik u mee van dienst</Word>
+      <Word dur="0.33" stime="4">zijn </Word>
+    </SpeechSegment>
+    <SpeechSegment spkid="M1">
+      <Word dur="0.30" stime="9.8"> één </Word>
+      <Word dur="0.38" stime="10.1"> vraag </Word>
+      <Word dur="0.18" stime="10.48"> ik </Word>
+      <Word dur="0.10" stime="10.66"> heb </Word>
+      <Word dur="0.30" stime="10.76"> vorige </Word>
+      <Word dur="0.30" stime="11.06"> week </Word>
+      <Word dur="0.26" stime="11.38"> een </Word>
+      <Word dur="0.24" stime="11.93"> nieuw </Word>
+      <Word dur="0.36" stime="12.17"> contract met </Word>
+      <Word dur="0.17" stime="12.68">jullie </Word>
+      <Word dur="0.79" stime="13.06"> afgesloten </Word>
+    </SpeechSegment>
+    <SpeechSegment spkid="M1">
+      <Word dur="0.45" stime="14.11"> ja </Word>
+      <Word dur="0.13" stime="15.8"> er </Word>
+      <Word dur="0.25" stime="16.2"> langs </Word>
+      <Word dur="0.06" stime="16.46"> de </Word>
+      <Word dur="0.27" stime="16.53"> deur geweest </Word>
+      <Word dur="0.14" stime="17.64">ben </Word>
+      <Word dur="0.07" stime="17.79"> ik </Word>
+      <Word dur="0.17" stime="17.86"> daar </Word>
+      <Word dur="0.37" stime="18.07"> nou </Word>
+      <Word dur="0.24" stime="18.47"> zelf </Word>
+      <Word dur="0.30" stime="18.72"> nog eens aan het</Word>
+      <Word dur="0.50" stime="19.03"> bekijken </Word>
+      <Word dur="0.30" stime="19.53"> omdat ik </Word>
+      <Word dur="0.34" stime="19.89">veertien </Word>
+      <Word dur="0.36" stime="20.24"> dagen </Word>
+      <Word dur="0.61" stime="20.61"> bedenktijd heb </Word>
+      <Word dur="0.24" stime="21.4">dat </Word>
+      <Word dur="0.12" stime="26.39"> maar dit is een dingetje die snap ik niet die kan</Word>
+      <Word dur="0.09" stime="26.9"> ik </Word>
+      <Word dur="0.15" stime="26.99"> niet </Word>
+      <Word dur="0.18" stime="27.14"> goed </Word>
+      <Word dur="0.62" stime="27.36"> thuisbrengen </Word>
+    </SpeechSegment>
+    <SpeechSegment spkid="M1">
+      <Word dur="0.20" stime="28.41"> die </Word>
+      <Word dur="0.18" stime="28.61"> kunt u niet thuisbrengen</Word>
+      <Word dur="0.13" stime="29.48">in </Word>
+      <Word dur="0.12" stime="29.68"> het </Word>
+      <Word dur="0.24" stime="29.8"> nieuwe </Word>
+      <Word dur="0.63" stime="30.04"> contract </Word>
+      <Word dur="0.36" stime="31.2"> en </Word>
+      <Word dur="0.24" stime="32.71"> wat </Word>
+      <Word dur="0.09" stime="32.95"> ik </Word>
+      <Word dur="0.24" stime="33.04"> doe </Word>
+      <Word dur="0.35" stime="33.3"> ermee </Word>
+      <Word dur="0.36" stime="33.7"> stopte </Word>
+      <Word dur="0.16" stime="34.08"> haal </Word>
+      <Word dur="0.12" stime="34.24"> ik </Word>
+      <Word dur="0.27" stime="34.36"> even </Word>
+      <Word dur="0.15" stime="34.63"> al </Word>
+      <Word dur="0.09" stime="34.78"> uw </Word>
+      <Word dur="0.48" stime="34.87"> gegevens </Word>
+      <Word dur="0.36" stime="35.35"> erbij </Word>
+      <Word dur="0.12" stime="35.71"> en </Word>
+      <Word dur="0.21" stime="35.83"> dan </Word>
+      <Word dur="0.18" stime="36.37"> dan </Word>
+      <Word dur="0.28" stime="36.55"> hoop </Word>
+      <Word dur="0.09" stime="36.83"> ik </Word>
+      <Word dur="0.10" stime="36.92"> u </Word>
+      <Word dur="0.11" stime="37.03"> een </Word>
+      <Word dur="0.39" stime="38.41"> tevreden </Word>
+      <Word dur="0.30" stime="38.8"> antwoord te </Word>
+      <Word dur="0.31" stime="39.12">geven </Word>
+      <Word dur="0.09" stime="39.43"> op </Word>
+      <Word dur="0.11" stime="39.52"> uw </Word>
+      <Word dur="0.55" stime="39.67"> vraag </Word>
+      <Word dur="0.36" stime="41.8"> heeft </Word>
+      <Word dur="0.06" stime="42.16"> u </Word>
+      <Word dur="0.35" stime="42.22"> misschien </Word>
+      <Word dur="0.07" stime="42.57"> een </Word>
+      <Word dur="0.49" stime="42.64"> klantnummer </Word>
+      <Word dur="0.17" stime="43.15"> of </Word>
+      <Word dur="0.07" stime="43.32"> een </Word>
+      <Word dur="0.49" stime="43.4"> postcode </Word>
+      <Word dur="0.64" stime="43.95">huisnummer </Word>
+    </SpeechSegment>
+    <SpeechSegment spkid="M1">
+      <Word dur="0.15" stime="48.66"> is </Word>
+      <Word dur="0.40" stime="48.93"> pieter </Word>
+      <Word dur="0.57" stime="49.56"> huisnummer zevenveertig</Word>
+      <Word dur="1.05" stime="52.11"> zevenenveertig </Word>
+      <Word dur="0.20" stime="54.97"> dan haal ik</Word>
+      <Word dur="0.39" stime="55.25"> even uw </Word>
+      <Word dur="0.52" stime="56.3">gegevens  erbij</Word>
+    </SpeechSegment>
+    <SpeechSegment spkid="M1">
+      <Word dur="0.18" stime="59.03"> dan </Word>
+      <Word dur="0.26" stime="61.07"> vandaag </Word>
+    </SpeechSegment>
+    <SpeechSegment spkid="M1">
+      <Word dur="0.13" stime="62.87"> u </Word>
+      <Word dur="0.16" stime="63"> bent </Word>
+      <Word dur="0.22" stime="63.2"> meneer </Word>
+      <Word dur="0.63" stime="63.42"> stoffels </Word>
+      <Word dur="0.50" stime="64.28"> uit Elst</Word>
+    </SpeechSegment>
+    <SpeechSegment spkid="M1">
+      <Word dur="0.40" stime="71.4"> ja </Word>
+    </SpeechSegment>
+    <SpeechSegment spkid="M1">
+      <Word dur="0.25" stime="74.65"> nou </Word>
+      <Word dur="0.36" stime="74.97"> vraag </Word>
+      <Word dur="0.12" stime="75.33"> ik </Word>
+      <Word dur="0.12" stime="75.45"> me </Word>
+      <Word dur="0.24" stime="75.57"> af </Word>
+      <Word dur="0.18" stime="75.81"> of </Word>
+      <Word dur="0.15" stime="75.99"> ik </Word>
+      <Word dur="0.21" stime="76.14"> hier </Word>
+      <Word dur="0.16" stime="76.35"> wel </Word>
+      <Word dur="0.14" stime="76.56"> het </Word>
+      <Word dur="0.44" stime="76.73"> juiste </Word>
+      <Word dur="0.24" stime="78.81"> even </Word>
+      <Word dur="0.42" stime="79.05"> kijken </Word>
+      <Word dur="0.44" stime="79.93"> want </Word>
+      <Word dur="0.09" stime="82.38"> en </Word>
+      <Word dur="0.19" stime="83.5"> dan </Word>
+      <Word dur="0.23" stime="83.76"> moeten </Word>
+      <Word dur="0.09" stime="84.07"> we </Word>
+      <Word dur="0.19" stime="84.59"> wel </Word>
+      <Word dur="0.14" stime="84.79"> uw </Word>
+      <Word dur="0.69" stime="84.93"> gegevens </Word>
+      <Word dur="0.31" stime="85.62"> zijn </Word>
+      <Word dur="0.15" stime="85.99"> nog </Word>
+      <Word dur="0.24" stime="86.16"> even </Word>
+      <Word dur="0.54" stime="86.4"> kijken </Word>
+    </SpeechSegment>
+    <SpeechSegment spkid="M1">
+      <Word dur="0.14" stime="89.79">heeft het</Word>
+      <Word dur="0.21" stime="90.29">via </Word>
+      <Word dur="0.04" stime="90.5"> een </Word>
+      <Word dur="0.48" stime="90.54"> medewerker </Word>
+      <Word dur="0.09" stime="91.02"> die </Word>
+      <Word dur="0.12" stime="91.8"> bij u aan de deur is</Word>
+      <Word dur="0.30" stime="91.92"> geweest </Word>
+      <Word dur="0.20" stime="92.22"> heeft </Word>
+      <Word dur="0.16" stime="92.42"> u afgesloten</Word>
+    </SpeechSegment>
+    <SpeechSegment spkid="M1">
+      <Word dur="0.24" stime="93.09"> ja </Word>
+      <Word dur="0.51" stime="94.15"> klopt </Word>
+      <Word dur="0.37" stime="95.32"> vorige </Word>
+      <Word dur="0.33" stime="95.72"> week </Word>
+      <Word dur="0.20" stime="96.31"> de zestiende</Word>
+      <Word dur="0.07" stime="98.7">ik </Word>
+      <Word dur="0.15" stime="98.77"> weet </Word>
+      <Word dur="0.19" stime="98.92"> niet of dat ik een klantnummer kan vinden</Word>
+    </SpeechSegment>
+    <SpeechSegment spkid="M1">
+      <Word dur="0.26" stime="101.4"> we </Word>
+      <Word dur="0.15" stime="101.68"> hebben </Word>
+      <Word dur="0.24" stime="102.06"> nee </Word>
+      <Word dur="0.10" stime="102.33"> ik </Word>
+      <Word dur="0.21" stime="102.43"> zie </Word>
+      <Word dur="0.15" stime="102.64"> hier </Word>
+      <Word dur="0.51" stime="102.79"> inderdaad </Word>
+      <Word dur="0.19" stime="103.38"> dat </Word>
+      <Word dur="0.24" stime="103.57"> u </Word>
+      <Word dur="0.17" stime="103.81"> uw </Word>
+      <Word dur="0.42" stime="103.99"> contract </Word>
+      <Word dur="0.14" stime="104.41"> zal </Word>
+      <Word dur="0.16" stime="104.55"> per </Word>
+      <Word dur="0.18" stime="104.71"> één </Word>
+      <Word dur="0.39" stime="104.89"> april </Word>
+      <Word dur="0.20" stime="105.28"> ingaan </Word>
+      <Word dur="0.21" stime="105.7"> dus </Word>
+      <Word dur="0.09" stime="105.91"> ik </Word>
+      <Word dur="0.12" stime="106"> heb </Word>
+      <Word dur="0.15" stime="106.12"> hier </Word>
+      <Word dur="0.15" stime="106.27"> wel </Word>
+      <Word dur="0.12" stime="106.42"> het </Word>
+      <Word dur="0.29" stime="106.55"> juiste </Word>
+      <Word dur="0.46" stime="106.84"> klantnummer </Word>
+      <Word dur="0.26" stime="107.38"> hoor </Word>
+      <Word dur="0.15" stime="108.58"> nog </Word>
+      <Word dur="0.33" stime="109.96"> wat </Word>
+      <Word dur="0.09" stime="110.29"> is </Word>
+      <Word dur="0.09" stime="110.38"> uw </Word>
+      <Word dur="0.30" stime="110.47"> vraag meneer</Word>
+    </SpeechSegment>
+    <SpeechSegment spkid="M1">
+      <Word dur="0.26" stime="113.06"> ja </Word>
+      <Word dur="0.19" stime="113.33"> bij </Word>
+      <Word dur="0.14" stime="113.52"> de </Word>
+      <Word dur="0.61" stime="113.67"> rekening </Word>
+      <Word dur="0.23" stime="114.35"> houdt </Word>
+      <Word dur="0.12" stime="114.64"> een </Word>
+      <Word dur="0.23" stime="114.81"> heel </Word>
+      <Word dur="0.71" stime="115.05"> extreem </Word>
+      <Word dur="0.56" stime="115.84"> overzicht</Word>
+      <Word dur="0.18" stime="116.43"> van </Word>
+      <Word dur="0.06" stime="116.63"> de </Word>
+      <Word dur="0.57" stime="116.69"> stroom </Word>
+      <Word dur="0.23" stime="117.33"> en</Word>
+      <Word dur="0.32" stime="117.72"> vaste </Word>
+      <Word dur="0.60" stime="118.07"> kosten </Word>
+      <Word dur="0.19" stime="118.95"> en </Word>
+      <Word dur="0.22" stime="119.17"> dat </Word>
+      <Word dur="0.54" stime="119.39"> allemaal </Word>
+    </SpeechSegment>
+    <SpeechSegment spkid="M1">
+      <Word dur="0.11" stime="122.14"> de </Word>
+      <Word dur="0.84" stime="122.65"> onderste</Word>
+      <Word dur="0.42" stime="124.34"> lijntje </Word>
+      <Word dur="0.14" stime="124.77"> van </Word>
+      <Word dur="0.14" stime="124.92"> de </Word>
+      <Word dur="0.75" stime="125.06"> stroom staat </Word>
+      <Word dur="0.45" stime="126.17">totaal </Word>
+      <Word dur="0.36" stime="126.62"> vaste </Word>
+      <Word dur="0.54" stime="126.98"> kosten </Word>
+      <Word dur="0.23" stime="127.94"> min</Word>
+      <Word dur="0.27" stime="128.39"> zesennegentig </Word>
+      <Word dur="0.83" stime="129.24"> vijfenvijftig </Word>
+    </SpeechSegment>
+    <SpeechSegment spkid="M1">
+      <Word dur="0.41" stime="134.84"> nou </Word>
+      <Word dur="0.12" stime="135.43"> ik </Word>
+      <Word dur="0.17" stime="135.83"> weet </Word>
+      <Word dur="0.06" stime="136"> u</Word>
+      <Word dur="0.12" stime="136.06"> wat </Word>
+      <Word dur="0.09" stime="136.18"> ik </Word>
+      <Word dur="0.09" stime="136.27"> doe </Word>
+      <Word dur="0.11" stime="136.36"> ik </Word>
+      <Word dur="0.16" stime="136.48"> haal </Word>
+      <Word dur="0.11" stime="136.79"> de</Word>
+      <Word dur="0.33" stime="136.93"> brief </Word>
+      <Word dur="0.44" stime="137.26"> erbij </Word>
+      <Word dur="0.16" stime="137.7"> die </Word>
+      <Word dur="0.21" stime="137.89"> u </Word>
+      <Word dur="0.24" stime="138.1"> dan </Word>
+      <Word dur="0.57" stime="138.4"> ontvangen </Word>
+      <Word dur="0.54" stime="138.97"> heeft dan zal ik even kijken</Word>
+    </SpeechSegment>
+    <SpeechSegment spkid="M1">
+      <Word dur="0.47" stime="141.95"> ja </Word>
+      <Word dur="0.15" stime="142.44"> dus </Word>
+      <Word dur="0.09" stime="142.63"> dat </Word>
+      <Word dur="0.20" stime="142.74"> alle </Word>
+      <Word dur="0.60" stime="142.95"> banden </Word>
+      <Word dur="0.27" stime="144.81"> met </Word>
+      <Word dur="0.12" stime="145.1"> de </Word>
+      <Word dur="0.24" stime="145.39"> met </Word>
+      <Word dur="0.35" stime="145.65"> de </Word>
+      <Word dur="0.45" stime="146.03"> tablet </Word>
+      <Word dur="0.42" stime="146.48"> gedaan </Word>
+      <Word dur="0.12" stime="146.9"> en </Word>
+      <Word dur="0.12" stime="147.05"> daar </Word>
+      <Word dur="0.12" stime="147.17"> heb </Word>
+      <Word dur="0.12" stime="147.29"> ik </Word>
+      <Word dur="0.33" stime="147.41"> alles </Word>
+      <Word dur="0.61" stime="147.79"> uitgeprint </Word>
+      <Word dur="0.27" stime="148.42"> hier </Word>
+    </SpeechSegment>
+    <SpeechSegment spkid="M1">
+      <Word dur="0.30" stime="149.98"> dus zodoende </Word>
+      <Word dur="0.37" stime="152.31">eventjes </Word>
+      <Word dur="0.33" stime="152.97"> kijken </Word>
+      <Word dur="0.28" stime="153.33"> hoor </Word>
+    </SpeechSegment>
+    <SpeechSegment spkid="M1">
+      <Word dur="0.33" stime="154.37"> ik </Word>
+      <Word dur="0.12" stime="154.7"> heb </Word>
+      <Word dur="0.30" stime="154.85"> niks </Word>
+      <Word dur="0.15" stime="155.15"> van </Word>
+      <Word dur="0.30" stime="155.3"> jullie </Word>
+      <Word dur="0.21" stime="155.6"> tot </Word>
+      <Word dur="0.21" stime="155.81"> nog </Word>
+      <Word dur="0.30" stime="156.02"> toe </Word>
+    </SpeechSegment>
+    <SpeechSegment spkid="M1">
+      <Word dur="0.31" stime="158.08"> niets </Word>
+      <Word dur="0.32" stime="158.52"> toegezonden gekregen</Word>
+      <Word dur="0.41" stime="159.71">en is</Word>
+      <Word dur="0.11" stime="160.91"> dat </Word>
+      <Word dur="0.75" stime="161.02"> uitgeprint </Word>
+      <Word dur="0.15" stime="161.77"> en </Word>
+      <Word dur="0.14" stime="161.93"> nu </Word>
+      <Word dur="0.29" stime="162.06"> zegt </Word>
+      <Word dur="0.12" stime="162.37"> daar </Word>
+      <Word dur="0.59" stime="162.55"> staat </Word>
+      <Word dur="0.15" stime="163.27"> op </Word>
+      <Word dur="0.06" stime="163.42"> een </Word>
+      <Word dur="0.36" stime="163.48"> gegeven </Word>
+      <Word dur="0.66" stime="163.84"> moment </Word>
+    </SpeechSegment>
+    <SpeechSegment spkid="M1">
+      <Word dur="0.24" stime="165.05"> het </Word>
+      <Word dur="0.73" stime="165.82"> eerste </Word>
+      <Word dur="0.19" stime="166.65"> jaar </Word>
+      <Word dur="0.34" stime="166.97"> er </Word>
+      <Word dur="0.26" stime="167.39"> loop </Word>
+      <Word dur="0.41" stime="167.66"> noemen </Word>
+      <Word dur="0.99" stime="168.16"> variabelen </Word>
+    </SpeechSegment>
+    <SpeechSegment spkid="M1">
+      <Word dur="0.96" stime="169.32"> levenskosten </Word>
+      <Word dur="0.19" stime="170.44"> werden </Word>
+      <Word dur="0.34" stime="170.71"> enkele </Word>
+      <Word dur="0.31" stime="171.13"> minuten</Word>
+      <Word dur="0.20" stime="171.5"> was </Word>
+      <Word dur="0.66" stime="171.7"> honderdtachtig </Word>
+      <Word dur="0.30" stime="172.36"> euro </Word>
+      <Word dur="0.21" stime="172.66"> zeg </Word>
+      <Word dur="0.27" stime="172.87"> maar </Word>
+      <Word dur="0.15" stime="173.14"> van </Word>
+      <Word dur="1.29" stime="173.34"> overheidsheffingen </Word>
+      <Word dur="0.86" stime="175.52"> driehonderdvijftig </Word>
+      <Word dur="0.25" stime="176.47"> dus </Word>
+      <Word dur="0.26" stime="176.73"> normaal</Word>
+      <Word dur="0.54" stime="177.46"> samen </Word>
+      <Word dur="0.21" stime="178.06"> twee </Word>
+      <Word dur="0.21" stime="178.27"> honderd</Word>
+      <Word dur="1.11" stime="178.54"> vijfhonderdtweeëndertig </Word>
+      <Word dur="0.54" stime="179.68"> euro </Word>
+    </SpeechSegment>
+    <SpeechSegment spkid="M1">
+      <Word dur="0.05" stime="180.85"> en </Word>
+      <Word dur="0.09" stime="181.01"> dan </Word>
+      <Word dur="0.20" stime="181.1"> komen </Word>
+      <Word dur="0.10" stime="181.34"> de </Word>
+      <Word dur="0.36" stime="181.96"> vast </Word>
+      <Word dur="0.39" stime="182.47"> levens </Word>
+      <Word dur="0.38" stime="182.9"> kosten</Word>
+      <Word dur="0.69" stime="183.29"> negenendertig </Word>
+      <Word dur="0.42" stime="184.02"> euro </Word>
+      <Word dur="0.36" stime="184.47"> twaalf </Word>
+      <Word dur="0.18" stime="184.83"> keer </Word>
+      <Word dur="0.21" stime="185.01"> drie vijfentwintig</Word>
+    </SpeechSegment>
+    <SpeechSegment spkid="M1">
+      <Word dur="0.18" stime="186.94"> en </Word>
+      <Word dur="0.22" stime="187.13"> dan </Word>
+      <Word dur="0.21" stime="187.98"> je </Word>
+      <Word dur="1.02" stime="188.59"> energiebelasting </Word>
+      <Word dur="1.33" stime="189.64"> driehonderddrieënzeventig </Word>
+      <Word dur="0.51" stime="190.97"> euro </Word>
+    </SpeechSegment>
+    <SpeechSegment spkid="M1">
+      <Word dur="0.15" stime="191.97"> en </Word>
+      <Word dur="0.15" stime="192.13"> dan </Word>
+      <Word dur="0.18" stime="192.64"> we </Word>
+      <Word dur="0.31" stime="192.87"> naar </Word>
+      <Word dur="0.54" stime="193.45"> netbeheer </Word>
+      <Word dur="0.53" stime="193.99"> koster </Word>
+      <Word dur="0.22" stime="194.53">liander </Word>
+      <Word dur="0.18" stime="198.97">is </Word>
+      <Word dur="1.26" stime="199.15"> tweehonderdzevenendertig </Word>
+      <Word dur="0.51" stime="200.41"> euro </Word>
+      <Word dur="0.54" stime="201.49"> en </Word>
+      <Word dur="0.22" stime="202.04"> dan </Word>
+      <Word dur="0.22" stime="202.48"> staat </Word>
+      <Word dur="0.18" stime="202.76"> er</Word>
+      <Word dur="0.73" stime="203.04"> vetgedrukt </Word>
+      <Word dur="0.51" stime="204.43"> totaal </Word>
+      <Word dur="0.36" stime="204.94"> vaste </Word>
+      <Word dur="0.45" stime="205.3"> kosten </Word>
+      <Word dur="0.81" stime="206.62"> zesennegentig </Word>
+      <Word dur="0.91" stime="207.43"> vijfenvijftig </Word>
+    </SpeechSegment>
+    <SpeechSegment spkid="M1">
+      <Word dur="0.19" stime="210.17"> dat </Word>
+      <Word dur="0.27" stime="210.45"> lijkt </Word>
+      <Word dur="0.53" stime="210.72"> senioren </Word>
+      <Word dur="0.29" stime="211.3"> daarop </Word>
+    </SpeechSegment>
+    <SpeechSegment spkid="M1">
+      <Word dur="0.23" stime="211.73"> elke </Word>
+      <Word dur="0.26" stime="212.05"> na </Word>
+      <Word dur="0.21" stime="212.35"> maar </Word>
+      <Word dur="0.22" stime="212.64"> niet </Word>
+      <Word dur="0.14" stime="213.02"> die </Word>
+      <Word dur="0.16" stime="213.55"> die </Word>
+      <Word dur="0.11" stime="213.73"> is </Word>
+      <Word dur="0.19" stime="213.86"> heeft </Word>
+      <Word dur="0.50" stime="214.27"> afgesproken </Word>
+      <Word dur="0.19" stime="215.3"> dat </Word>
+      <Word dur="0.25" stime="215.52"> snap </Word>
+      <Word dur="0.11" stime="215.78"> ik niet</Word>
+    </SpeechSegment>
+    <SpeechSegment spkid="M1">
+      <Word dur="0.07" stime="216.55"> het </Word>
+      <Word dur="0.12" stime="216.94"> is </Word>
+      <Word dur="0.32" stime="217.12"> totaal </Word>
+      <Word dur="0.29" stime="217.45"> vaste </Word>
+      <Word dur="0.34" stime="217.76"> kosten </Word>
+      <Word dur="0.32" stime="218.1"> staat </Word>
+      <Word dur="0.13" stime="218.42"> er </Word>
+      <Word dur="0.23" stime="218.55"> min </Word>
+      <Word dur="0.78" stime="218.79"> zesennegentig </Word>
+      <Word dur="0.25" stime="219.6"> euro </Word>
+      <Word dur="1.19" stime="219.87"> vijfenvijftig </Word>
+    </SpeechSegment>
+    <SpeechSegment spkid="M1">
+      <Word dur="0.10" stime="221.25"> in </Word>
+      <Word dur="0.90" stime="223.62"> totaal </Word>
+      <Word dur="1.17" stime="224.68"> vijfhonderdtweeëndertig </Word>
+      <Word dur="0.51" stime="225.99"> twintig </Word>
+      <Word dur="0.15" stime="228.6"> en </Word>
+      <Word dur="0.18" stime="228.78"> dan </Word>
+      <Word dur="0.24" stime="228.96"> komt </Word>
+      <Word dur="0.06" stime="229.2"> er </Word>
+      <Word dur="0.15" stime="229.26"> nog </Word>
+      <Word dur="0.77" stime="229.48"> negenendertig </Word>
+      <Word dur="0.45" stime="230.28"> euro </Word>
+      <Word dur="0.17" stime="230.75"> aan </Word>
+      <Word dur="1.18" stime="230.93"> tweehonderdzevenendertig </Word>
+      <Word dur="0.27" stime="232.11"> euro </Word>
+      <Word dur="0.36" stime="232.38"> bij </Word>
+    </SpeechSegment>
+    <SpeechSegment spkid="M1">
+      <Word dur="0.18" stime="234.03"> en </Word>
+      <Word dur="0.32" stime="234.21"> dan </Word>
+      <Word dur="0.23" stime="234.72"> gaat </Word>
+      <Word dur="0.06" stime="234.95"> er </Word>
+      <Word dur="0.27" stime="235.02"> weer </Word>
+      <Word dur="0.83" stime="235.44"> tweehonderdzeven </Word>
+      <Word dur="0.22" stime="236.87"> drie </Word>
+      <Word dur="0.36" stime="237.1"> honderd</Word>
+      <Word dur="0.25" stime="239.79"> die </Word>
+      <Word dur="0.29" stime="240.18"> vijf </Word>
+      <Word dur="1.02" stime="243.26"> vierhonderdvijfendertig </Word>
+      <Word dur="0.59" stime="244.29"> euro  over</Word>
+    </SpeechSegment>
+    <SpeechSegment spkid="M1">
+      <Word dur="0.29" stime="247.25"> nee </Word>
+      <Word dur="0.15" stime="247.8"> ik </Word>
+      <Word dur="0.18" stime="247.95"> moet </Word>
+      <Word dur="0.27" stime="248.13"> eerlijk </Word>
+      <Word dur="0.30" stime="248.4"> zeggen </Word>
+      <Word dur="0.06" stime="248.76"> ik </Word>
+      <Word dur="0.18" stime="248.82"> ga </Word>
+      <Word dur="0.36" stime="249.04"> eventjes </Word>
+      <Word dur="0.30" stime="249.42"> kijken </Word>
+      <Word dur="0.27" stime="249.72"> hoor </Word>
+      <Word dur="0.12" stime="249.99">zal even</Word>
+      <Word dur="0.11" stime="250.76"> die </Word>
+      <Word dur="0.30" stime="252.33"> brief </Word>
+      <Word dur="0.38" stime="252.69"> erbij </Word>
+      <Word dur="0.12" stime="253.09"> kan </Word>
+      <Word dur="0.61" stime="253.31"> pakken </Word>
+    </SpeechSegment>
+    <SpeechSegment spkid="M1">
+      <Word dur="0.13" stime="255.52"> ik </Word>
+      <Word dur="0.15" stime="255.65"> zie </Word>
+      <Word dur="0.17" stime="255.8"> dat </Word>
+      <Word dur="0.10" stime="255.97"> die </Word>
+      <Word dur="0.64" stime="256.07"> klaarstaat </Word>
+      <Word dur="0.30" stime="256.91"> voor uw </Word>
+      <Word dur="1.07" stime="257.27">aanmelding even </Word>
+      <Word dur="0.37" stime="258.74">kijken </Word>
+      <Word dur="0.21" stime="261.09"> nu </Word>
+      <Word dur="0.14" stime="261.37">voor nuon </Word>
+      <Word dur="0.32" stime="263.6">start </Word>
+      <Word dur="0.36" stime="263.93"> direct </Word>
+      <Word dur="0.21" stime="264.29"> met </Word>
+      <Word dur="0.30" stime="264.5"> vijf </Word>
+      <Word dur="0.36" stime="264.8"> procent </Word>
+      <Word dur="0.51" stime="265.16"> korting </Word>
+      <Word dur="0.30" stime="265.67"> op </Word>
+      <Word dur="0.24" stime="266.03"> uw stroomtarief</Word>
+    </SpeechSegment>
+    <SpeechSegment spkid="M1">
+      <Word dur="0.28" stime="268.66"> natuurlijk </Word>
+      <Word dur="0.15" stime="269.79"> wij </Word>
+      <Word dur="0.08" stime="270.06"> een </Word>
+      <Word dur="0.51" stime="270.14"> bedrag </Word>
+      <Word dur="0.18" stime="270.65"> van </Word>
+      <Word dur="0.39" stime="270.83"> honderd </Word>
+      <Word dur="0.50" stime="271.36"> euro </Word>
+      <Word dur="0.19" stime="271.98"> gaat </Word>
+      <Word dur="0.08" stime="272.19"> die brief </Word>
+      <Word dur="0.17" stime="272.38">nog </Word>
+      <Word dur="0.44" stime="272.59"> ontvangen </Word>
+      <Word dur="0.26" stime="273.02"> hoor </Word>
+      <Word dur="0.14" stime="273.34"> want </Word>
+      <Word dur="0.13" stime="273.52"> die </Word>
+      <Word dur="0.24" stime="273.65"> is </Word>
+      <Word dur="0.36" stime="274.37"> vandaag zie ik hier</Word>
+      <Word dur="0.34" stime="275.85"> nu zal i</Word>
+      <Word dur="0.21" stime="277.33">k </Word>
+      <Word dur="0.38" stime="277.58"> eventjes </Word>
+      <Word dur="0.18" stime="277.97"> gaan </Word>
+      <Word dur="0.74" stime="278.15"> kijken </Word>
+      <Word dur="0.30" stime="281.24"> wat </Word>
+      <Word dur="0.15" stime="281.54"> daar </Word>
+      <Word dur="0.51" stime="281.72"> allemaal </Word>
+      <Word dur="0.20" stime="282.37"> in </Word>
+      <Word dur="0.56" stime="282.63"> staat </Word>
+      <Word dur="0.20" stime="283.49"> nou </Word>
+      <Word dur="0.45" stime="285.38"> eigenlijk </Word>
+      <Word dur="0.21" stime="285.83"> is </Word>
+    </SpeechSegment>
+    <SpeechSegment spkid="M1">
+      <Word dur="0.16" stime="286.36"> dat </Word>
+      <Word dur="0.38" stime="287.7"> variabele kosten</Word>
+      <Word dur="0.19" stime="288.23"> was </Word>
+      <Word dur="0.10" stime="288.44"> een </Word>
+      <Word dur="0.55" stime="288.55"> leverings- </Word>
+      <Word dur="0.37" stime="289.86"> net </Word>
+      <Word dur="1.03" stime="290.29"> beheerskosten en dat is </Word>
+      <Word dur="1.11" stime="292.52">elektriciteit </Word>
+    </SpeechSegment>
+    <SpeechSegment spkid="M1">
+      <Word dur="0.28" stime="295.67"> daar </Word>
+      <Word dur="0.26" stime="295.95"> staat </Word>
+      <Word dur="0.21" stime="296.21"> bij </Word>
+      <Word dur="0.22" stime="296.45"> dit </Word>
+      <Word dur="0.28" stime="296.68"> gas </Word>
+      <Word dur="0.24" stime="296.96"> dat </Word>
+      <Word dur="0.23" stime="297.53"> bij </Word>
+    </SpeechSegment>
+    <SpeechSegment spkid="M1">
+      <Word dur="0.20" stime="301.44"> en </Word>
+      <Word dur="0.10" stime="301.86"> bij </Word>
+      <Word dur="0.10" stime="302.05"> het </Word>
+      <Word dur="0.38" stime="302.37"> werden </Word>
+      <Word dur="0.18" stime="302.78"> bij </Word>
+      <Word dur="0.30" stime="302.96"> de </Word>
+      <Word dur="0.15" stime="305.69"> bij </Word>
+      <Word dur="0.15" stime="305.84"> de </Word>
+      <Word dur="0.62" stime="306.02"> elektriciteit </Word>
+      <Word dur="0.17" stime="306.64"> staat </Word>
+      <Word dur="0.20" stime="306.81"> dus </Word>
+      <Word dur="0.12" stime="307.01"> die </Word>
+      <Word dur="0.28" stime="307.21"> min zes en negentig euro</Word>
+      <Word dur="0.74" stime="308.16"> vijfenvijftig </Word>
+      <Word dur="0.24" stime="309.36"> zegt  u</Word>
+    </SpeechSegment>
+    <SpeechSegment spkid="M1">
+      <Word dur="0.23" stime="310.75"> maar het bovenste rijtje </Word>
+      <Word dur="0.38" stime="312.61">eerste </Word>
+      <Word dur="0.32" stime="313"> vaste </Word>
+      <Word dur="0.63" stime="313.33"> levering </Word>
+    </SpeechSegment>
+    <SpeechSegment spkid="M1">
+      <Word dur="0.16" stime="314.4"> na </Word>
+      <Word dur="0.14" stime="314.65"> een </Word>
+      <Word dur="0.79" stime="314.93"> overheidskosten </Word>
+      <Word dur="0.54" stime="316.27"> en </Word>
+      <Word dur="0.43" stime="317.08"> dan </Word>
+      <Word dur="0.19" stime="320.32"> die </Word>
+      <Word dur="0.33" stime="320.51"> twaalf </Word>
+      <Word dur="0.28" stime="320.84"> maanden </Word>
+      <Word dur="0.17" stime="321.11"> keer</Word>
+      <Word dur="0.21" stime="321.29"> drie </Word>
+      <Word dur="0.85" stime="321.5"> vijfentwintig </Word>
+      <Word dur="0.94" stime="324.13"> driehonderddrie </Word>
+      <Word dur="0.14" stime="325.2"> te </Word>
+      <Word dur="0.57" stime="325.43"> geeuwen </Word>
+      <Word dur="1.05" stime="326.98"> energiebelasting </Word>
+      <Word dur="0.15" stime="328.77"> en </Word>
+      <Word dur="0.30" stime="328.95"> dan </Word>
+      <Word dur="0.31" stime="329.45"> veertien </Word>
+      <Word dur="0.51" stime="329.8"> netbeheer </Word>
+      <Word dur="0.54" stime="330.31"> kosten </Word>
+      <Word dur="0.18" stime="331.38"> en </Word>
+      <Word dur="0.21" stime="331.61"> dat </Word>
+      <Word dur="0.18" stime="331.82"> is </Word>
+    </SpeechSegment>
+    <SpeechSegment spkid="M1">
+      <Word dur="0.45" stime="332.11"> twaalf </Word>
+      <Word dur="0.36" stime="332.59"> maanden </Word>
+      <Word dur="0.28" stime="332.95"> keer </Word>
+      <Word dur="0.41" stime="333.23"> negentien euro </Word>
+      <Word dur="0.8" stime="334.59">zevenendertig </Word>
+      <Word dur="0.45" stime="335.41"> euro </Word>
+      <Word dur="0.24" stime="336.9"> en dan komt</Word>
+      <Word dur="0.37" stime="337.42"> nog in het </Word>
+      <Word dur="0.63" stime="338.44">vetgedrukt </Word>
+      <Word dur="0.41" stime="339.1"> totaal </Word>
+      <Word dur="0.33" stime="339.52"> vaste </Word>
+      <Word dur="0.52" stime="339.87"> kosten min </Word>
+      <Word dur="0.77" stime="341.22">zesennegentig </Word>
+      <Word dur="0.59" stime="342.09"> vijfenvijftig </Word>
+      <Word dur="0.15" stime="343.66"> maar </Word>
+      <Word dur="0.09" stime="343.89"> ik </Word>
+      <Word dur="0.15" stime="344"> heb </Word>
+      <Word dur="0.24" stime="344.17"> dat </Word>
+      <Word dur="0.28" stime="344.41"> eruit </Word>
+      <Word dur="0.20" stime="344.72"> ook </Word>
+      <Word dur="0.32" stime="344.98"> betaald </Word>
+      <Word dur="0.25" stime="345.46"> aan</Word>
+      <Word dur="0.46" stime="345.81"> die </Word>
+    </SpeechSegment>
+    <SpeechSegment spkid="M1">
+      <Word dur="0.34" stime="347.17"> laatste </Word>
+      <Word dur="0.41" stime="347.55"> dag gedaan maar dan </Word>
+    </SpeechSegment>
+    <SpeechSegment spkid="M1">
+      <Word dur="0.24" stime="352.27"> nu </Word>
+      <Word dur="0.23" stime="352.51"> staan </Word>
+      <Word dur="0.07" stime="352.74"> er </Word>
+      <Word dur="0.15" stime="352.81"> niet </Word>
+      <Word dur="0.31" stime="353"> af </Word>
+      <Word dur="0.18" stime="353.71"> ik </Word>
+      <Word dur="0.15" stime="353.9"> zit </Word>
+      <Word dur="0.33" stime="354.07"> eventjes te </Word>
+      <Word dur="0.33" stime="354.43"> kijken </Word>
+      <Word dur="0.12" stime="354.76"> of </Word>
+      <Word dur="0.07" stime="354.88"> ik </Word>
+      <Word dur="0.09" stime="354.95"> die </Word>
+      <Word dur="0.57" stime="355.04"> zesennegentig </Word>
+      <Word dur="0.75" stime="355.63"> vijfenvijftig </Word>
+      <Word dur="0.18" stime="356.38"> hier </Word>
+      <Word dur="0.45" stime="356.56"> terug </Word>
+      <Word dur="0.21" stime="357.01"> kan </Word>
+      <Word dur="0.26" stime="357.22"> vinden </Word>
+      <Word dur="0.11" stime="357.48"> want </Word>
+      <Word dur="0.10" stime="357.6"> ik </Word>
+      <Word dur="0.18" stime="357.7"> weet </Word>
+      <Word dur="0.25" stime="357.92"> ook </Word>
+      <Word dur="0.31" stime="358.19"> niet </Word>
+      <Word dur="0.54" stime="359.47"> misschien </Word>
+      <Word dur="0.18" stime="360.01"> dat </Word>
+      <Word dur="0.12" stime="360.19"> het </Word>
+      <Word dur="0.09" stime="360.31"> te </Word>
+      <Word dur="0.39" stime="360.4"> maken </Word>
+      <Word dur="0.48" stime="360.79"> heeft </Word>
+      <Word dur="0.30" stime="361.3"> even </Word>
+      <Word dur="0.31" stime="361.6"> kijken </Word>
+      <Word dur="0.48" stime="361.93"> hoor </Word>
+    </SpeechSegment>
+    <SpeechSegment spkid="M1">
+      <Word dur="0.21" stime="369.78"> ik </Word>
+      <Word dur="0.45" stime="370.02"> denk </Word>
+      <Word dur="0.24" stime="370.56"> dat </Word>
+      <Word dur="0.27" stime="370.8"> die </Word>
+      <Word dur="0.33" stime="371.73"> die </Word>
+      <Word dur="0.51" stime="372.09"> meneer </Word>
+      <Word dur="0.18" stime="372.63"> of </Word>
+      <Word dur="0.30" stime="372.81"> mevrouw </Word>
+      <Word dur="0.15" stime="373.11"> die </Word>
+      <Word dur="0.14" stime="373.26"> bij </Word>
+      <Word dur="0.10" stime="373.4"> u </Word>
+      <Word dur="0.14" stime="373.54"> aan </Word>
+      <Word dur="0.09" stime="373.68"> de </Word>
+      <Word dur="0.33" stime="373.77"> deur </Word>
+      <Word dur="0.21" stime="374.1"> is </Word>
+      <Word dur="0.78" stime="374.31"> geweest </Word>
+      <Word dur="0.15" stime="376.43"> die </Word>
+      <Word dur="0.67" stime="376.68"> berekening </Word>
+      <Word dur="0.25" stime="377.39">heeft </Word>
+      <Word dur="0.54" stime="377.64"> gemaakt </Word>
+      <Word dur="0.18" stime="378.21"> en </Word>
+      <Word dur="0.18" stime="378.420"> dat </Word>
+      <Word dur="0.18" stime="378.605"> ie </Word>
+      <Word dur="0.21" stime="378.88"> eigenlijk </Word>
+      <Word dur="0.18" stime="379.14"> die </Word>
+      <Word dur="0.45" stime="379.35"> korting </Word>
+      <Word dur="0.47" stime="379.84"> daarin </Word>
+      <Word dur="0.33" stime="380.41"> mee</Word>
+      <Word dur="0.33" stime="380.88"> heeft </Word>
+      <Word dur="0.48" stime="381.21"> genomen </Word>
+      <Word dur="0.15" stime="381.69"> op </Word>
+      <Word dur="0.36" stime="381.84"> basis </Word>
+      <Word dur="0.18" stime="382.2"> van </Word>
+      <Word dur="0.09" stime="382.38"> het </Word>
+      <Word dur="0.60" stime="382.47"> verbruik </Word>
+      <Word dur="0.20" stime="383.07"> wat u</Word>
+      <Word dur="0.22" stime="383.51"> heeft </Word>
+      <Word dur="0.51" stime="383.73"> gehad </Word>
+      <Word dur="0.21" stime="384.54"> want </Word>
+      <Word dur="0.21" stime="384.75"> kijk </Word>
+      <Word dur="0.18" stime="384.96"> uit </Word>
+      <Word dur="0.15" stime="385.17"> het </Word>
+      <Word dur="0.48" stime="385.32"> verbruik </Word>
+      <Word dur="0.12" stime="385.8"> wat </Word>
+      <Word dur="0.07" stime="385.92"> u </Word>
+      <Word dur="0.29" stime="385.99"> heeft  opgegeven</Word>
+    </SpeechSegment>
+    <SpeechSegment spkid="M1">
+      <Word dur="0.19" stime="386.93">dat </Word>
+      <Word dur="0.18" stime="387.12"> wordt </Word>
+      <Word dur="0.12" stime="387.3"> in </Word>
+      <Word dur="0.27" stime="387.42"> deze </Word>
+      <Word dur="0.60" stime="387.69"> bevestiging </Word>
+      <Word dur="0.21" stime="388.29"> niet </Word>
+      <Word dur="0.60" stime="388.5"> genoemd </Word>
+      <Word dur="0.25" stime="389.14"> dus </Word>
+      <Word dur="0.30" stime="389.43"> dat </Word>
+      <Word dur="0.30" stime="389.82"> dat </Word>
+      <Word dur="0.21" stime="390.21"> dat </Word>
+      <Word dur="0.18" stime="390.42"> kan </Word>
+      <Word dur="0.09" stime="390.6"> ik </Word>
+      <Word dur="0.18" stime="390.69"> niet </Word>
+      <Word dur="0.40" stime="390.87"> terugzien </Word>
+      <Word dur="0.15" stime="391.35"> dus </Word>
+      <Word dur="0.06" stime="391.5"> ik </Word>
+      <Word dur="0.12" stime="391.56"> weet </Word>
+      <Word dur="0.15" stime="391.68">welk</Word>
+      <Word dur="0.44" stime="392.02"> verbruik </Word>
+      <Word dur="0.29" stime="392.47"> er</Word>
+      <Word dur="0.69" stime="393.66"> aangehouden </Word>
+      <Word dur="0.24" stime="394.35"> is </Word>
+      <Word dur="0.21" stime="394.59"> voor  u</Word>
+    </SpeechSegment>
+    <SpeechSegment spkid="M1">
+      <Word dur="0.22" stime="396.14"> nou </Word>
+      <Word dur="0.11" stime="396.52"> dan </Word>
+      <Word dur="0.16" stime="396.65"> weet </Word>
+      <Word dur="0.14" stime="396.81"> ik </Word>
+      <Word dur="0.32" stime="396.97"> wel </Word>
+      <Word dur="0.79" stime="398.04"> is </Word>
+      <Word dur="0.16" stime="398.97"> dat </Word>
+      <Word dur="0.12" stime="399.15"> dat</Word>
+      <Word dur="0.25" stime="400.62"> is dus </Word>
+      <Word dur="1.13" stime="401.97"> honderdnegenenzestig </Word>
+    </SpeechSegment>
+    <SpeechSegment spkid="M1">
+      <Word dur="0.60" stime="404.71"> kilowatt </Word>
+      <Word dur="0.54" stime="407.32"> duizend </Word>
+      <Word dur="0.39" stime="408.04"> kuub </Word>
+      <Word dur="0.34" stime="409.06"> water </Word>
+    </SpeechSegment>
+    <SpeechSegment spkid="M1">
+      <Word dur="0.68" stime="410.47"> duizend </Word>
+      <Word dur="0.27" stime="411.15"> kuub </Word>
+      <Word dur="0.63" stime="411.42"> gas </Word>
+      <Word dur="0.10" stime="412.09"> dan </Word>
+      <Word dur="0.12" stime="412.19"> ga </Word>
+      <Word dur="0.07" stime="412.31"> ik </Word>
+      <Word dur="0.15" stime="412.38"> als </Word>
+      <Word dur="0.27" stime="412.6"> ik </Word>
+      <Word dur="0.27" stime="415.11"> daar </Word>
+      <Word dur="0.09" stime="415.38"> is </Word>
+      <Word dur="0.09" stime="415.47"> die </Word>
+      <Word dur="0.48" stime="415.56"> berekeningen </Word>
+      <Word dur="0.09" stime="416.04"> op </Word>
+      <Word dur="0.60" stime="416.13"> gebaseerd </Word>
+      <Word dur="0.20" stime="416.98"> dan</Word>
+      <Word dur="0.18" stime="417.56"> ga </Word>
+      <Word dur="0.10" stime="417.77"> ik </Word>
+      <Word dur="0.45" stime="418.41"> nog </Word>
+      <Word dur="0.34" stime="419.42"> onder </Word>
+      <Word dur="0.11" stime="420.07"> de </Word>
+      <Word dur="0.56" stime="421.06"> honderdvijftig </Word>
+      <Word dur="0.39" stime="421.76"> euro </Word>
+      <Word dur="0.43" stime="422.99"> korting </Word>
+    </SpeechSegment>
+    <SpeechSegment spkid="M1">
+      <Word dur="0.18" stime="423.93"> die cash back </Word>
+      <Word dur="0.13" stime="424.55">die </Word>
+      <Word dur="0.37" stime="424.68"> krijgt </Word>
+      <Word dur="0.29" stime="425.07"> u</Word>
+      <Word dur="0.24" stime="425.49"> die </Word>
+      <Word dur="0.18" stime="425.95"> die </Word>
+      <Word dur="0.10" stime="426.15"> en </Word>
+      <Word dur="0.13" stime="426.29"> die </Word>
+      <Word dur="0.18" stime="426.42"> staat </Word>
+      <Word dur="0.12" stime="426.6"> ook </Word>
+      <Word dur="0.09" stime="426.72"> in </Word>
+      <Word dur="0.12" stime="426.81">welkomstbrief hier </Word>
+      <Word dur="0.16" stime="428.33">en even</Word>
+      <Word dur="0.23" stime="428.65">zien </Word>
+      <Word dur="0.21" stime="428.88"> hoor </Word>
+      <Word dur="0.42" stime="429.3"> alleen </Word>
+      <Word dur="0.14" stime="429.95"> ik </Word>
+      <Word dur="0.27" stime="430.11"> ik </Word>
+      <Word dur="0.12" stime="430.38"> heb </Word>
+      <Word dur="0.12" stime="430.5"> met </Word>
+      <Word dur="0.51" stime="431.01"> donkerbruin </Word>
+      <Word dur="0.33" stime="431.52"> vermoeden </Word>
+      <Word dur="0.36" stime="431.85"> nogmaals </Word>
+      <Word dur="0.14" stime="432.21"> dat </Word>
+      <Word dur="0.12" stime="432.36"> kan </Word>
+      <Word dur="0.09" stime="432.48"> ik </Word>
+      <Word dur="0.18" stime="432.57"> dus </Word>
+      <Word dur="0.18" stime="432.75"> niet </Word>
+      <Word dur="0.37" stime="432.93"> terugzien </Word>
+      <Word dur="0.21" stime="433.38"> hè </Word>
+      <Word dur="0.32" stime="433.59"> omdat </Word>
+      <Word dur="0.18" stime="433.92"> ik </Word>
+      <Word dur="0.15" stime="434.1"> dus </Word>
+      <Word dur="0.18" stime="434.25"> niet </Word>
+      <Word dur="0.28" stime="434.43"> weet </Word>
+      <Word dur="0.08" stime="434.71">we </Word>
+      <Word dur="0.18" stime="434.82"> wat </Word>
+      <Word dur="0.11" stime="435"> rond </Word>
+      <Word dur="0.09" stime="435.15"> die </Word>
+      <Word dur="0.57" stime="435.24"> tablet</Word>
+      <Word dur="0.18" stime="435.84"> door </Word>
+      <Word dur="0.23" stime="436.02"> die </Word>
+      <Word dur="0.37" stime="436.34"> persoon </Word>
+      <Word dur="0.15" stime="436.71"> is </Word>
+      <Word dur="0.78" stime="436.86"> ingevoerd </Word>
+      <Word dur="0.12" stime="438"> maar </Word>
+      <Word dur="0.06" stime="438.12"> ik </Word>
+      <Word dur="0.09" stime="438.18">het </Word>
+      <Word dur="0.09" stime="439.47">te </Word>
+      <Word dur="0.30" stime="439.56"> maken </Word>
+      <Word dur="0.21" stime="439.86"> heeft </Word>
+      <Word dur="0.20" stime="440.07"> met </Word>
+      <Word dur="0.11" stime="440.27"> die </Word>
+      <Word dur="0.16" stime="440.73"> met </Word>
+      <Word dur="0.11" stime="440.89"> die </Word>
+      <Word dur="0.45" stime="441.03"> korting </Word>
+      <Word dur="0.18" stime="441.48"> die </Word>
+      <Word dur="0.18" stime="441.66"> u </Word>
+      <Word dur="0.60" stime="441.87"> heeft </Word>
+    </SpeechSegment>
+    <SpeechSegment spkid="M1">
+      <Word dur="0.30" stime="442.98"> al </Word>
+      <Word dur="0.15" stime="443.28"> op </Word>
+      <Word dur="0.28" stime="443.43"> uw </Word>
+      <Word dur="0.25" stime="443.96"> al </Word>
+      <Word dur="0.18" stime="444.21"> op </Word>
+      <Word dur="0.09" stime="444.4"> een </Word>
+      <Word dur="0.86" stime="444.49"> tarief </Word>
+      <Word dur="0.26" stime="445.93"> want </Word>
+      <Word dur="0.15" stime="446.27"> het </Word>
+      <Word dur="0.23" stime="446.46"> worden </Word>
+      <Word dur="0.15" stime="446.72"> de </Word>
+      <Word dur="0.45" stime="446.88"> tarieven </Word>
+      <Word dur="0.18" stime="447.33"> daar </Word>
+      <Word dur="0.27" stime="447.51"> ook </Word>
+      <Word dur="0.93" stime="447.99"> gespecificeerd </Word>
+      <Word dur="0.15" stime="449.28"> in </Word>
+      <Word dur="0.59" stime="449.43"> genoemd </Word>
+      <Word dur="0.19" stime="450.46"> de </Word>
+      <Word dur="0.26" stime="450.7"> prijs </Word>
+      <Word dur="0.18" stime="451.07"> om </Word>
+      <Word dur="0.17" stime="451.29"> wat </Word>
+      <Word dur="0.41" stime="451.51"> uur </Word>
+      <Word dur="0.16" stime="451.92"> en </Word>
+    </SpeechSegment>
+    <SpeechSegment spkid="M1">
+      <Word dur="0.22" stime="453.29"> alles </Word>
+      <Word dur="0.31" stime="453.92"> staat</Word>
+      <Word dur="0.17" stime="454.3"> er </Word>
+      <Word dur="0.40" stime="454.48"> precies </Word>
+      <Word dur="0.42" stime="454.92"> op </Word>
+      <Word dur="0.15" stime="456.59"> ik </Word>
+      <Word dur="0.15" stime="456.79"> kan </Word>
+      <Word dur="0.27" stime="456.95"> alles </Word>
+      <Word dur="0.40" stime="457.27"> voorlezen</Word>
+      <Word dur="0.30" stime="458.84"> kunnen </Word>
+      <Word dur="0.15" stime="459.43"> zijn </Word>
+    </SpeechSegment>
+    <SpeechSegment spkid="M1">
+      <Word dur="0.24" stime="459.96"> ja </Word>
+      <Word dur="0.33" stime="460.92"> ja </Word>
+      <Word dur="0.18" stime="461.34"> want </Word>
+      <Word dur="0.33" stime="461.9"> zoals </Word>
+      <Word dur="0.42" stime="462.39"> stroom</Word>
+      <Word dur="0.21" stime="462.81"> hè </Word>
+      <Word dur="0.15" stime="463.02"> wat </Word>
+      <Word dur="0.24" stime="463.17"> wat </Word>
+      <Word dur="0.21" stime="463.44"> wat </Word>
+      <Word dur="0.29" stime="463.65"> wordt </Word>
+      <Word dur="0.18" stime="463.94"> er </Word>
+      <Word dur="0.36" stime="464.16"> daarvoor </Word>
+      <Word dur="0.54" stime="464.52"> stroomprijs </Word>
+      <Word dur="0.34" stime="465.07"> genoemd </Word>
+      <Word dur="0.14" stime="465.51"> bij </Word>
+      <Word dur="0.28" stime="465.66"> u </Word>
+    </SpeechSegment>
+    <SpeechSegment spkid="M1">
+      <Word dur="0.33" stime="467.48"> is </Word>
+      <Word dur="0.54" stime="468.65"> variabelen </Word>
+      <Word dur="0.21" stime="469.53"> het </Word>
+      <Word dur="0.32" stime="469.86"> levenskosten </Word>
+      <Word dur="0.30" stime="471.4">is </Word>
+      <Word dur="0.14" stime="472.25">de </Word>
+      <Word dur="0.44" stime="472.54"> nul </Word>
+      <Word dur="0.36" stime="473.08"> punt </Word>
+      <Word dur="0.37" stime="473.51"> nul </Word>
+      <Word dur="0.42" stime="473.89"> zes </Word>
+      <Word dur="0.33" stime="474.49"> zeven </Word>
+      <Word dur="0.45" stime="474.82"> negen </Word>
+      <Word dur="0.20" stime="476.65"> de </Word>
+      <Word dur="0.99" stime="477.67"> honderdeenentachtig </Word>
+      <Word dur="0.27" stime="478.66"> euro </Word>
+      <Word dur="0.75" stime="478.93"> drieëndertig </Word>
+    </SpeechSegment>
+    <SpeechSegment spkid="M1">
+      <Word dur="0.21" stime="481.57"> en </Word>
+      <Word dur="0.30" stime="481.78"> dan </Word>
+      <Word dur="0.20" stime="482.11"> komt </Word>
+      <Word dur="0.24" stime="482.37"> nog </Word>
+      <Word dur="0.19" stime="482.62"> weer </Word>
+      <Word dur="0.05" stime="482.81"> een </Word>
+      <Word dur="0.40" stime="482.86"> keer </Word>
+      <Word dur="0.29" stime="483.8"> zal </Word>
+      <Word dur="0.20" stime="484.12"> dat </Word>
+      <Word dur="0.10" stime="484.33"> er </Word>
+      <Word dur="0.20" stime="484.44"> op </Word>
+      <Word dur="0.30" stime="484.68"> mijn </Word>
+      <Word dur="0.35" stime="485.01"> zesde </Word>
+      <Word dur="0.44" stime="485.42"> kilowatt </Word>
+      <Word dur="0.33" stime="485.87"> keer </Word>
+      <Word dur="0.45" stime="486.69"> nul </Word>
+      <Word dur="0.37" stime="487.85"> punt dertien </Word>
+      <Word dur="0.50" stime="489.17">vijftien </Word>
+      <Word dur="1.1" stime="491.02"> driehonderdvijftig </Word>
+      <Word dur="0.30" stime="492.25"> euro </Word>
+      <Word dur="1.07" stime="492.55"> zevenennegentig </Word>
+      <Word dur="0.19" stime="494.52"> was </Word>
+      <Word dur="0.13" stime="494.88"> zijn </Word>
+      <Word dur="0.50" stime="495.07"> totaal </Word>
+      <Word dur="0.15" stime="495.57"> op </Word>
+      <Word dur="1.12" stime="495.72"> vijfhonderdtweeëndertig </Word>
+      <Word dur="0.36" stime="496.84"> euro </Word>
+      <Word dur="0.57" stime="497.29"> twintig </Word>
+    </SpeechSegment>
+    <SpeechSegment spkid="M1">
+      <Word dur="0.09" stime="499.71"> en </Word>
+      <Word dur="0.09" stime="499.83"> dan </Word>
+      <Word dur="0.27" stime="499.92"> komt </Word>
+      <Word dur="0.09" stime="500.19"> er </Word>
+      <Word dur="0.21" stime="500.28"> nog </Word>
+      <Word dur="0.57" stime="500.52"> negenendertig </Word>
+      <Word dur="0.31" stime="501.2"> euro </Word>
+      <Word dur="0.39" stime="501.51"> bij </Word>
+      <Word dur="0.16" stime="502.23"> de </Word>
+      <Word dur="0.66" stime="502.59"> levering </Word>
+    </SpeechSegment>
+    <SpeechSegment spkid="M1">
+      <Word dur="0.45" stime="504.03"> ja </Word>
+      <Word dur="0.14" stime="505.02"> maar </Word>
+      <Word dur="0.28" stime="505.3"> geen </Word>
+      <Word dur="0.97" stime="505.66"> negenendertig </Word>
+      <Word dur="0.63" stime="506.68"> euro </Word>
+    </SpeechSegment>
+    <SpeechSegment spkid="M1">
+      <Word dur="0.30" stime="507.34"> en </Word>
+      <Word dur="0.23" stime="507.64"> dan </Word>
+      <Word dur="0.47" stime="507.87"> nog </Word>
+      <Word dur="0.42" stime="509.38"> twaalf </Word>
+      <Word dur="0.29" stime="509.8"> maanden </Word>
+      <Word dur="0.27" stime="510.13"> naar </Word>
+      <Word dur="0.50" stime="511.03"> maanden </Word>
+      <Word dur="0.50" stime="511.87"> netbeheer </Word>
+      <Word dur="0.54" stime="512.37"> kosten</Word>
+      <Word dur="0.25" stime="513.52"> in </Word>
+      <Word dur="0.39" stime="513.79"> negentien </Word>
+      <Word dur="0.69" stime="514.18"> tweeëntachtig </Word>
+      <Word dur="1.42" stime="515.12"> driehonderdzevenendertig </Word>
+      <Word dur="0.26" stime="516.55"> euro </Word>
+      <Word dur="0.20" stime="516.81"> achtenzeventig</Word>
+    </SpeechSegment>
+    <SpeechSegment spkid="M1">
+      <Word dur="0.11" stime="518.78"> en </Word>
+      <Word dur="0.12" stime="518.9"> dan </Word>
+      <Word dur="0.28" stime="519.02"> komen </Word>
+      <Word dur="0.19" stime="524.96"> en </Word>
+      <Word dur="0.21" stime="525.23"> daar </Word>
+      <Word dur="0.44" stime="525.6"> later </Word>
+      <Word dur="1.47" stime="526.31"> driehonderddrieënzeventig </Word>
+      <Word dur="0.42" stime="527.99"> euro </Word>
+      <Word dur="0.57" stime="528.46"> drieëndertig </Word>
+      <Word dur="0.39" stime="529.19"> af </Word>
+    </SpeechSegment>
+    <SpeechSegment spkid="M1">
+      <Word dur="0.27" stime="530.4"> voor </Word>
+      <Word dur="0.49" stime="530.67"> de </Word>
+      <Word dur="0.59" stime="531.99"> energiebelasting </Word>
+      <Word dur="0.23" stime="534.07"> en </Word>
+      <Word dur="0.14" stime="534.38"> dan </Word>
+      <Word dur="0.18" stime="534.54"> zit </Word>
+      <Word dur="0.12" stime="534.87"> ik </Word>
+      <Word dur="0.15" stime="534.99"> op </Word>
+      <Word dur="0.06" stime="535.14"> een </Word>
+      <Word dur="0.44" stime="535.2"> totaal </Word>
+      <Word dur="0.22" stime="535.65"> van vier</Word>
+      <Word dur="0.99" stime="536">honderdvijfendertig </Word>
+      <Word dur="0.21" stime="537"> euro </Word>
+      <Word dur="0.69" stime="537.24"> vijfenzestig </Word>
+      <Word dur="0.15" stime="538.05"> aan </Word>
+      <Word dur="0.09" stime="538.2"> de </Word>
+      <Word dur="0.30" stime="538.29"> start </Word>
+      <Word dur="0.24" stime="538.59"> hier </Word>
+      <Word dur="0.18" stime="538.83"> ook </Word>
+      <Word dur="0.18" stime="539.01"> op </Word>
+      <Word dur="0.27" stime="539.19"> maar </Word>
+      <Word dur="0.20" stime="539.65"> ik </Word>
+      <Word dur="0.77" stime="539.86"> zesennegentig </Word>
+      <Word dur="0.36" stime="540.63"> euro  die is dan niet af</Word>
+    </SpeechSegment>
+    <SpeechSegment spkid="M1">
+      <Word dur="0.27" stime="544.87"> nee </Word>
+      <Word dur="0.47" stime="545.19"> precies </Word>
+      <Word dur="0.14" stime="545.91"> nou </Word>
+      <Word dur="0.13" stime="546.1"> weet u </Word>
+      <Word dur="0.12" stime="546.33">ik zet u heel even in de</Word>
+      <Word dur="0.21" stime="547.36">wacht </Word>
+      <Word dur="0.25" stime="547.61"> kijken </Word>
+      <Word dur="0.19" stime="548.03"> nog </Word>
+      <Word dur="0.44" stime="548.26"> eventjes </Word>
+      <Word dur="0.14" stime="548.7"> na </Word>
+      <Word dur="0.22" stime="548.9"> hoor </Word>
+      <Word dur="0.09" stime="549.12"> ik </Word>
+      <Word dur="0.13" stime="549.22"> kom </Word>
+      <Word dur="0.15" stime="549.36"> zo </Word>
+      <Word dur="0.17" stime="549.51"> bij </Word>
+      <Word dur="0.07" stime="549.67"> je </Word>
+      <Word dur="0.28" stime="549.75"> terug </Word>
+      <Word dur="0.15" stime="550.03"> als </Word>
+      <Word dur="0.45" stime="550.18"> ogenblik </Word>
+      <Word dur="0.42" stime="550.63"> heeft </Word>
+    </SpeechSegment>
+    <SpeechSegment spkid="M1">
+      <Word dur="0.39" stime="551.92"> oké </Word>
+    </SpeechSegment>
+    <SpeechSegment spkid="M1">
+      <Word dur="0.18" stime="814.18"> meneer </Word>
+      <Word dur="0.38" stime="814.37"> stoffels </Word>
+      <Word dur="0.17" stime="814.82"> dank </Word>
+      <Word dur="0.07" stime="815"> u </Word>
+      <Word dur="0.13" stime="815.07"> wel </Word>
+      <Word dur="0.06" stime="815.24"> het </Word>
+      <Word dur="0.47" stime="815.3"> wachten </Word>
+      <Word dur="0.23" stime="816.99"> nou hebben even gekeken </Word>
+      <Word dur="0.15" stime="818.11">maar </Word>
+      <Word dur="0.14" stime="818.26"> het </Word>
+      <Word dur="0.14" stime="818.4"> is </Word>
+      <Word dur="0.21" stime="818.62"> het </Word>
+      <Word dur="0.12" stime="818.83"> is </Word>
+      <Word dur="0.21" stime="818.95"> ons </Word>
+      <Word dur="0.12" stime="819.16"> ook </Word>
+      <Word dur="0.18" stime="819.28"> niet </Word>
+      <Word dur="0.30" stime="819.46"> helemaal </Word>
+      <Word dur="0.45" stime="819.76"> duidelijk </Word>
+      <Word dur="0.15" stime="820.21"> wat </Word>
+      <Word dur="0.06" stime="820.36"> er </Word>
+      <Word dur="0.24" stime="820.42"> nou </Word>
+      <Word dur="0.12" stime="820.66"> op </Word>
+      <Word dur="0.12" stime="820.78"> die tablet</Word>
+      <Word dur="0.29" stime="821.15">dat </Word>
+      <Word dur="0.45" stime="821.56"> bedoeld </Word>
+      <Word dur="0.18" stime="822.04"> is </Word>
+      <Word dur="0.18" stime="822.22"> met </Word>
+      <Word dur="0.12" stime="822.4"> die </Word>
+      <Word dur="0.18" stime="822.52"> met </Word>
+      <Word dur="0.12" stime="822.7"> die </Word>
+      <Word dur="0.30" stime="822.82"> min </Word>
+      <Word dur="0.67" stime="823.12"> zesennegentig </Word>
+      <Word dur="0.17" stime="823.84"> euro </Word>
+      <Word dur="0.78" stime="824.01"> vijfenvijftig </Word>
+      <Word dur="0.12" stime="824.8"> dan </Word>
+      <Word dur="0.20" stime="824.92"> kon </Word>
+      <Word dur="0.19" stime="825.12"> ik </Word>
+      <Word dur="0.27" stime="826.15"> dat </Word>
+    </SpeechSegment>
+    <SpeechSegment spkid="M1">
+      <Word dur="0.11" stime="826.55"> dat </Word>
+      <Word dur="0.30" stime="826.88"> durf </Word>
+      <Word dur="0.12" stime="827.18"> ik </Word>
+      <Word dur="0.11" stime="827.3"> u </Word>
+      <Word dur="0.28" stime="827.44"> niet </Word>
+      <Word dur="0.09" stime="827.72"> te </Word>
+      <Word dur="0.41" stime="827.81"> zeggen </Word>
+      <Word dur="0.21" stime="828.26"> en </Word>
+      <Word dur="0.30" stime="828.5"> heeft </Word>
+      <Word dur="0.21" stime="828.8"> ze </Word>
+      <Word dur="0.21" stime="829.04"> de </Word>
+      <Word dur="0.28" stime="829.45"> die </Word>
+      <Word dur="0.30" stime="829.76"> de </Word>
+      <Word dur="0.60" stime="830.09"> medewerker </Word>
+      <Word dur="0.17" stime="830.69"> dan </Word>
+      <Word dur="0.15" stime="830.87"> ook </Word>
+      <Word dur="0.27" stime="831.02"> niet </Word>
+      <Word dur="0.53" stime="831.93"> specifiek </Word>
+      <Word dur="0.60" stime="832.46"> besproken </Word>
+      <Word dur="0.21" stime="833.06"> met u </Word>
+      <Word dur="0.14" stime="833.51">die </Word>
+      <Word dur="0.36" stime="833.69"> die </Word>
+      <Word dur="0.40" stime="834.74"> zeg </Word>
+      <Word dur="0.22" stime="836.22"> nou </Word>
+      <Word dur="0.44" stime="836.49"> precies </Word>
+    </SpeechSegment>
+    <SpeechSegment spkid="M1">
+      <Word dur="0.24" stime="837.28"> want </Word>
+      <Word dur="0.17" stime="837.55"> ik </Word>
+      <Word dur="0.18" stime="837.72"> ik </Word>
+      <Word dur="0.13" stime="837.9"> ik </Word>
+      <Word dur="0.30" stime="838.93"> ja </Word>
+      <Word dur="0.15" stime="839.35"> want </Word>
+      <Word dur="0.06" stime="839.5"> ik </Word>
+      <Word dur="0.09" stime="839.56"> heb </Word>
+      <Word dur="0.15" stime="839.65"> hier </Word>
+      <Word dur="0.17" stime="839.8"> dus </Word>
+      <Word dur="0.09" stime="839.97"> een </Word>
+      <Word dur="0.52" stime="840.07"> bevestigingsbrief</Word>
+      <Word dur="0.30" stime="840.87">voor </Word>
+      <Word dur="0.15" stime="841.17"> maar </Word>
+      <Word dur="0.15" stime="841.32"> hij </Word>
+      <Word dur="0.17" stime="841.46"> die </Word>
+      <Word dur="0.21" stime="841.63"> gaat </Word>
+      <Word dur="0.09" stime="841.84"> u </Word>
+      <Word dur="0.27" stime="841.93"> dan </Word>
+      <Word dur="0.36" stime="842.5"> vandaag </Word>
+      <Word dur="0.12" stime="842.86"> of </Word>
+      <Word dur="0.39" stime="842.98"> morgen </Word>
+      <Word dur="0.63" stime="843.37"> ontvangen </Word>
+      <Word dur="0.21" stime="845.53"> daar </Word>
+      <Word dur="0.24" stime="845.74"> staan </Word>
+      <Word dur="0.08" stime="845.98"> wel </Word>
+      <Word dur="0.21" stime="846.07"> alle </Word>
+      <Word dur="0.42" stime="846.28"> tarieven </Word>
+      <Word dur="0.30" stime="846.73"> in </Word>
+      <Word dur="0.29" stime="847.03"> hè </Word>
+      <Word dur="0.26" stime="847.44"> welke </Word>
+      <Word dur="0.12" stime="847.7"> was </Word>
+      <Word dur="0.49" stime="847.83"> cadeau </Word>
+      <Word dur="0.13" stime="848.33"> het </Word>
+      <Word dur="0.17" stime="848.5"> mij </Word>
+      <Word dur="0.21" stime="848.67"> een </Word>
+      <Word dur="0.45" stime="848.89"> bedrag </Word>
+      <Word dur="0.18" stime="849.34"> en </Word>
+      <Word dur="0.78" stime="849.52"> dergelijke </Word>
+      <Word dur="0.24" stime="850.57"> maar </Word>
+      <Word dur="0.24" stime="850.81"> die </Word>
+      <Word dur="0.18" stime="851.5"> ja </Word>
+      <Word dur="0.52" stime="851.7"> die </Word>
+      <Word dur="0.18" stime="852.34"> die </Word>
+      <Word dur="0.55" stime="852.53"> medewerker </Word>
+      <Word dur="0.14" stime="853.09"> heeft </Word>
+      <Word dur="0.21" stime="853.23"> natuurlijk </Word>
+      <Word dur="0.08" stime="853.44"> een </Word>
+      <Word dur="0.65" stime="853.53"> specifiek </Word>
+      <Word dur="0.35" stime="854.23"> aan </Word>
+    </SpeechSegment>
+    <SpeechSegment spkid="M1">
+      <Word dur="0.08" stime="855.6"> het </Word>
+      <Word dur="0.33" stime="855.96"> aanbod </Word>
+      <Word dur="0.52" stime="856.29"> zogeheten </Word>
+      <Word dur="0.24" stime="856.82"> aanbod </Word>
+      <Word dur="0.14" stime="857.06"> op </Word>
+      <Word dur="0.28" stime="857.2"> maat </Word>
+      <Word dur="0.17" stime="857.5"> voor </Word>
+      <Word dur="0.21" stime="857.7"> uw </Word>
+      <Word dur="0.91" stime="857.93"> berekend </Word>
+      <Word dur="0.30" stime="859.19"> maar </Word>
+      <Word dur="0.24" stime="859.53"> wat </Word>
+      <Word dur="0.11" stime="859.77"> die </Word>
+      <Word dur="0.17" stime="859.88"> met </Word>
+      <Word dur="0.08" stime="860.05"> die </Word>
+      <Word dur="0.53" stime="860.13"> zesennegentig </Word>
+      <Word dur="0.32" stime="860.68"> euro </Word>
+      <Word dur="0.77" stime="861"> vijfenvijftig heeft bedoeld </Word>
+      <Word dur="0.24" stime="862.35">dat </Word>
+      <Word dur="0.15" stime="862.59"> is </Word>
+      <Word dur="0.15" stime="862.74"> mij </Word>
+      <Word dur="0.15" stime="862.92"> ook </Word>
+      <Word dur="0.15" stime="863.07"> niet </Word>
+      <Word dur="0.30" stime="863.22"> helemaal </Word>
+      <Word dur="0.57" stime="863.52"> duidelijk </Word>
+      <Word dur="0.14" stime="864.65"> dat </Word>
+      <Word dur="0.24" stime="865.37"> dat </Word>
+      <Word dur="0.15" stime="865.62"> kan </Word>
+      <Word dur="0.09" stime="865.77"> ik </Word>
+      <Word dur="0.12" stime="865.86"> ook </Word>
+      <Word dur="0.23" stime="865.98"> niet </Word>
+      <Word dur="0.22" stime="866.42"> ja </Word>
+      <Word dur="0.29" stime="866.73"> niet </Word>
+      <Word dur="0.48" stime="867.26"> terugvinden </Word>
+      <Word dur="0.24" stime="867.78"> omdat </Word>
+      <Word dur="0.12" stime="868.02"> ik </Word>
+      <Word dur="0.13" stime="868.14"> dus </Word>
+      <Word dur="0.17" stime="868.26"> niet </Word>
+      <Word dur="0.36" stime="868.53"> niet </Word>
+    </SpeechSegment>
+    <SpeechSegment spkid="M1">
+      <Word dur="0.10" stime="868.93"> het </Word>
+      <Word dur="0.26" stime="869.03"> kan </Word>
+      <Word dur="0.39" stime="869.29"> zien </Word>
+      <Word dur="0.27" stime="869.89"> welke </Word>
+      <Word dur="0.63" stime="870.16"> berekening </Word>
+    </SpeechSegment>
+    <SpeechSegment spkid="M1">
+      <Word dur="0.39" stime="871.4"> die </Word>
+      <Word dur="0.27" stime="871.79"> meneer </Word>
+      <Word dur="0.24" stime="872.06"> heeft </Word>
+      <Word dur="0.42" stime="872.3"> gemaakt </Word>
+      <Word dur="0.30" stime="879.07"> ja </Word>
+    </SpeechSegment>
+    <SpeechSegment spkid="M1">
+      <Word dur="0.29" stime="879.66"> kijken </Word>
+      <Word dur="0.29" stime="880.57"> iets </Word>
+      <Word dur="0.24" stime="880.86"> over </Word>
+      <Word dur="0.12" stime="881.1"> te </Word>
+      <Word dur="0.46" stime="881.22"> horen </Word>
+      <Word dur="0.35" stime="881.68"> over </Word>
+    </SpeechSegment>
+    <SpeechSegment spkid="M1">
+      <Word dur="0.24" stime="882.68"> nou u </Word>
+      <Word dur="0.36" stime="882.95">krijgt </Word>
+      <Word dur="0.11" stime="883.32"> een </Word>
+      <Word dur="0.24" stime="883.43"> krijgt </Word>
+      <Word dur="0.21" stime="883.67"> gewoon </Word>
+      <Word dur="0.08" stime="883.88"> die </Word>
+      <Word dur="0.56" stime="883.97"> bevestigingsbrief </Word>
+      <Word dur="0.55" stime="884.89"> thuisgestuurd </Word>
+      <Word dur="0.20" stime="885.53"> dat </Word>
+      <Word dur="0.21" stime="885.99"> hele </Word>
+      <Word dur="0.67" stime="886.24"> contracten </Word>
+      <Word dur="0.30" stime="887.21"> staat </Word>
+      <Word dur="0.13" stime="887.51"> daar </Word>
+      <Word dur="0.32" stime="887.67"> in </Word>
+      <Word dur="0.24" stime="888.02"> en </Word>
+      <Word dur="0.50" stime="888.35"> daarin </Word>
+      <Word dur="0.18" stime="888.86"> wordt </Word>
+      <Word dur="0.18" stime="889.04"> dan </Word>
+      <Word dur="0.15" stime="889.22"> ook </Word>
+      <Word dur="0.12" stime="889.37"> het </Word>
+      <Word dur="0.46" stime="889.56"> termijnbedrag </Word>
+      <Word dur="0.42" stime="890.06"> genoemd </Word>
+      <Word dur="0.24" stime="890.96"> van </Word>
+      <Word dur="0.30" stime="891.2"> honderd </Word>
+      <Word dur="0.30" stime="891.53"> euro </Word>
+      <Word dur="0.15" stime="891.83"> wat </Word>
+      <Word dur="0.17" stime="891.98"> u </Word>
+      <Word dur="0.15" stime="892.46"> per </Word>
+      <Word dur="0.27" stime="892.61"> maand </Word>
+      <Word dur="0.21" stime="892.88"> gaat </Word>
+      <Word dur="0.60" stime="893.09"> betalen </Word>
+    </SpeechSegment>
+    <SpeechSegment spkid="M1">
+      <Word dur="0.66" stime="895.35"> alle </Word>
+      <Word dur="0.72" stime="896.1"> voorwaarden </Word>
+      <Word dur="0.29" stime="896.82"> staan er</Word>
+      <Word dur="0.26" stime="897.25">in </Word>
+      <Word dur="0.21" stime="897.55"> haar </Word>
+      <Word dur="0.15" stime="897.78"> de </Word>
+      <Word dur="0.27" stime="897.93"> nuon </Word>
+      <Word dur="0.24" stime="898.2"> blijven </Word>
+      <Word dur="0.29" stime="898.45"> loont </Word>
+      <Word dur="0.39" stime="898.74"> korting </Word>
+      <Word dur="0.18" stime="899.13"> wordt </Word>
+      <Word dur="0.81" stime="899.34"> besproken </Word>
+      <Word dur="0.21" stime="900.45"> want </Word>
+      <Word dur="0.30" stime="900.66"> nogmaals </Word>
+      <Word dur="0.18" stime="900.99"> ik </Word>
+      <Word dur="0.24" stime="901.17"> durf u niet te zeggen</Word>
+    </SpeechSegment>
+    <SpeechSegment spkid="M1">
+      <Word dur="0.21" stime="903.35"> wat </Word>
+      <Word dur="0.07" stime="903.56"> die </Word>
+      <Word dur="0.57" stime="903.63"> medewerker </Word>
+      <Word dur="0.28" stime="904.2"> bedoelt </Word>
+      <Word dur="0.14" stime="904.49"> met die zes en negentig</Word>
+      <Word dur="0.74" stime="905.54">vijfenvijftig </Word>
+      <Word dur="0.16" stime="906.31"> dat </Word>
+      <Word dur="0.13" stime="906.48"> is  mij niet helemaal duidelijk</Word>
+    </SpeechSegment>
+    <SpeechSegment spkid="M1">
+      <Word dur="0.20" stime="908.83"> en </Word>
+      <Word dur="0.22" stime="910.03"> maar </Word>
+      <Word dur="0.15" stime="911.38"> nu </Word>
+      <Word dur="0.11" stime="911.67"> heeft ook geen kaartje</Word>
+      <Word dur="0.19" stime="912.69">meer </Word>
+      <Word dur="0.15" stime="912.88"> van </Word>
+      <Word dur="0.22" stime="913.03"> die </Word>
+      <Word dur="0.90" stime="913.35"> persoon </Word>
+    </SpeechSegment>
+    <SpeechSegment spkid="M1">
+      <Word dur="0.18" stime="921.68"> ik </Word>
+      <Word dur="0.30" stime="922.16"> moest </Word>
+      <Word dur="0.18" stime="923.02"> ik </Word>
+      <Word dur="0.20" stime="923.2"> moest </Word>
+      <Word dur="0.11" stime="923.42"> een </Word>
+      <Word dur="0.56" stime="923.54"> handtekening </Word>
+      <Word dur="0.32" stime="924.1"> zetten </Word>
+      <Word dur="0.14" stime="924.42"> hem </Word>
+      <Word dur="0.32" stime="924.58"> zelf </Word>
+      <Word dur="0.16" stime="924.91"> uit </Word>
+      <Word dur="0.10" stime="925.08"> uw </Word>
+      <Word dur="0.69" stime="925.24"> handtekening neergezet </Word>
+      <Word dur="0.36" stime="925.93">is </Word>
+      <Word dur="0.33" stime="926.62"> dus </Word>
+      <Word dur="0.08" stime="927.32"> het </Word>
+      <Word dur="0.13" stime="927.48"> kan </Word>
+      <Word dur="0.18" stime="927.61"> zijn </Word>
+      <Word dur="0.11" stime="927.79"> dat </Word>
+      <Word dur="0.07" stime="927.9"> je </Word>
+      <Word dur="0.27" stime="927.97"> misschien </Word>
+      <Word dur="0.06" stime="928.24"> een </Word>
+      <Word dur="0.36" stime="928.3"> kaartje </Word>
+      <Word dur="0.12" stime="928.66"> had </Word>
+      <Word dur="0.60" stime="928.78"> achtergelaten </Word>
+    </SpeechSegment>
+    <SpeechSegment spkid="M1">
+      <Word dur="0.07" stime="929.45"> het </Word>
+      <Word dur="0.05" stime="929.7"> is </Word>
+      <Word dur="0.14" stime="929.84"> nou </Word>
+      <Word dur="0.27" stime="930.23"> nee </Word>
+      <Word dur="0.21" stime="930.5"> dat </Word>
+      <Word dur="0.29" stime="930.73"> meen </Word>
+      <Word dur="0.09" stime="931.56"> ik </Word>
+      <Word dur="0.13" stime="931.91"> een hand</Word>
+      <Word dur="0.58" stime="932.23">tekening </Word>
+      <Word dur="0.16" stime="932.83"> op </Word>
+      <Word dur="0.15" stime="932.99"> maar </Word>
+      <Word dur="0.09" stime="933.14"> dat </Word>
+      <Word dur="0.18" stime="933.23"> kan </Word>
+      <Word dur="0.15" stime="933.41"> ik </Word>
+      <Word dur="0.21" stime="933.56"> niks </Word>
+      <Word dur="0.39" stime="933.77"> van </Word>
+      <Word dur="0.19" stime="935.44"> van </Word>
+      <Word dur="0.37" stime="935.63"> lezen </Word>
+      <Word dur="0.25" stime="936.01"> zeg </Word>
+      <Word dur="0.23" stime="936.28"> maar </Word>
+      <Word dur="0.12" stime="936.68"> een </Word>
+      <Word dur="0.34" stime="936.82"> grote </Word>
+      <Word dur="0.20" stime="937.16"> aan </Word>
+      <Word dur="0.23" stime="937.36"> malta </Word>
+      <Word dur="0.21" stime="937.6"> malta </Word>
+      <Word dur="0.32" stime="937.89"> partij </Word>
+      <Word dur="0.58" stime="938.26"> krassen </Word>
+      <Word dur="0.15" stime="938.87"> in </Word>
+    </SpeechSegment>
+    <SpeechSegment spkid="M1">
+      <Word dur="0.31" stime="939.07"> dus </Word>
+      <Word dur="0.35" stime="939.61"> ja </Word>
+      <Word dur="0.18" stime="939.98"> nee </Word>
+      <Word dur="0.47" stime="940.16"> begrijp </Word>
+      <Word dur="0.14" stime="940.64"> het </Word>
+      <Word dur="0.24" stime="940.99"> kijk- </Word>
+      <Word dur="0.07" stime="941.24"> en </Word>
+      <Word dur="0.36" stime="941.3"> nogmaals </Word>
+      <Word dur="0.27" stime="941.75"> krijgt </Word>
+      <Word dur="0.06" stime="942.02"> de </Word>
+      <Word dur="0.24" stime="942.08"> hele </Word>
+      <Word dur="0.60" stime="942.32"> bevestiging </Word>
+      <Word dur="0.33" stime="942.92"> thuis </Word>
+      <Word dur="0.06" stime="943.25"> en </Word>
+      <Word dur="0.27" stime="943.31"> misschien </Word>
+      <Word dur="0.08" stime="943.58"> is </Word>
+      <Word dur="0.09" stime="943.66"> het </Word>
+      <Word dur="0.27" stime="943.76"> beter </Word>
+      <Word dur="0.15" stime="944.03"> dat </Word>
+      <Word dur="0.12" stime="944.18"> u </Word>
+      <Word dur="0.18" stime="944.3"> die </Word>
+      <Word dur="0.27" stime="944.48"> gewoon </Word>
+      <Word dur="0.36" stime="944.75"> eventjes </Word>
+      <Word dur="0.21" stime="945.11"> helemaal </Word>
+      <Word dur="0.37" stime="945.32"> door </Word>
+      <Word dur="0.18" stime="946.03"> door </Word>
+    </SpeechSegment>
+    <SpeechSegment spkid="M1">
+      <Word dur="0.42" stime="946.45"> spit</Word>
+      <Word dur="0.18" stime="947.79"> hè </Word>
+      <Word dur="0.13" stime="947.97"> want </Word>
+      <Word dur="0.12" stime="948.1"> daar </Word>
+      <Word dur="0.19" stime="948.22"> staan </Word>
+      <Word dur="0.13" stime="948.41"> de </Word>
+      <Word dur="0.36" stime="948.55"> tarieven </Word>
+      <Word dur="0.42" stime="948.91"> allemaal </Word>
+      <Word dur="0.18" stime="949.33"> in </Word>
+      <Word dur="0.15" stime="949.51"> het </Word>
+      <Word dur="0.40" stime="949.73"> termijnbedrag </Word>
+      <Word dur="0.42" stime="950.14"> nogmaals </Word>
+      <Word dur="0.18" stime="950.56"> wordt be</Word>
+      <Word dur="0.39" stime="950.76">sproken </Word>
+      <Word dur="0.18" stime="951.16"> de </Word>
+      <Word dur="0.27" stime="951.34"> cash bac</Word>
+      <Word dur="0.21" stime="951.61">k </Word>
+      <Word dur="0.29" stime="951.83"> staat </Word>
+      <Word dur="0.24" stime="952.12"> erin </Word>
+      <Word dur="0.54" stime="952.36"> vermeld </Word>
+      <Word dur="0.27" stime="954.01"> maar </Word>
+      <Word dur="0.14" stime="954.31"> ik </Word>
+      <Word dur="0.21" stime="954.46"> kan </Word>
+      <Word dur="0.20" stime="954.7"> ik </Word>
+      <Word dur="0.23" stime="955.12"> ik </Word>
+      <Word dur="0.13" stime="955.38"> op </Word>
+      <Word dur="0.06" stime="955.52"> het </Word>
+      <Word dur="0.16" stime="955.59"> is </Word>
+      <Word dur="0.12" stime="955.75"> voor </Word>
+      <Word dur="0.12" stime="955.87"> mij </Word>
+      <Word dur="0.72" stime="955.99"> onmogelijk </Word>
+      <Word dur="0.12" stime="956.71"> hoe </Word>
+      <Word dur="0.24" stime="956.83"> graag </Word>
+      <Word dur="0.10" stime="957.07"> ik </Word>
+      <Word dur="0.08" stime="957.18"> ook </Word>
+      <Word dur="0.15" stime="957.28"> zo'n </Word>
+      <Word dur="0.21" stime="957.43"> willen </Word>
+      <Word dur="0.09" stime="957.64"> om </Word>
+      <Word dur="0.12" stime="957.73"> te </Word>
+      <Word dur="0.90" stime="957.85"> achterhalen </Word>
+      <Word dur="0.23" stime="959.08"> hè </Word>
+      <Word dur="0.22" stime="959.91"> wat </Word>
+      <Word dur="0.08" stime="960.14"> die </Word>
+      <Word dur="0.51" stime="960.22"> medewerker </Word>
+      <Word dur="0.18" stime="960.73"> heeft </Word>
+      <Word dur="0.27" stime="960.91"> bedoelt </Word>
+      <Word dur="0.12" stime="961.18"> met </Word>
+      <Word dur="0.08" stime="961.3"> die </Word>
+      <Word dur="0.62" stime="961.39"> zesennegentig euro</Word>
+      <Word dur="1.03" stime="962.19"> vijfenvijftig </Word>
+    </SpeechSegment>
+    <SpeechSegment spkid="M1">
+      <Word dur="0.18" stime="964.88"> ik </Word>
+      <Word dur="0.14" stime="965.06"> heb </Word>
+      <Word dur="0.14" stime="965.2"> hier </Word>
+      <Word dur="0.25" stime="965.38"> laatst </Word>
+      <Word dur="0.20" stime="965.72"> bij </Word>
+      <Word dur="0.11" stime="965.94"> een </Word>
+      <Word dur="0.71" stime="966.06"> handtekening </Word>
+      <Word dur="0.27" stime="966.77"> staat </Word>
+      <Word dur="0.15" stime="967.04"> een </Word>
+      <Word dur="0.44" stime="967.23"> idee </Word>
+      <Word dur="0.76" stime="967.67"> medewerker </Word>
+      <Word dur="0.11" stime="968.43"> van </Word>
+      <Word dur="0.24" stime="968.57"> start </Word>
+      <Word dur="0.23" stime="968.86"> bellen </Word>
+      <Word dur="0.30" stime="970.35"> daar staat wel een nummer </Word>
+      <Word dur="0.18" stime="970.67">wat </Word>
+      <Word dur="0.13" stime="970.85"> aan </Word>
+      <Word dur="0.21" stime="970.99"> had </Word>
+    </SpeechSegment>
+    <SpeechSegment spkid="M1">
+      <Word dur="0.25" stime="972.24"> nee </Word>
+      <Word dur="0.35" stime="972.64"> nee </Word>
+      <Word dur="0.15" stime="972.99"> want </Word>
+      <Word dur="0.15" stime="973.14"> het </Word>
+      <Word dur="0.17" stime="973.32"> is </Word>
+      <Word dur="0.44" stime="973.58"> speciaal </Word>
+      <Word dur="0.11" stime="974.02"> naar </Word>
+      <Word dur="0.07" stime="974.13"> een </Word>
+      <Word dur="0.30" stime="974.22"> andere </Word>
+      <Word dur="0.39" stime="974.52"> afdeling </Word>
+      <Word dur="0.24" stime="974.91"> he </Word>
+      <Word dur="0.15" stime="975.15">die </Word>
+      <Word dur="0.32" stime="975.31"> mensen </Word>
+      <Word dur="0.55" stime="975.63"> aanstuurt </Word>
+      <Word dur="0.15" stime="976.18"> dus </Word>
+      <Word dur="0.14" stime="976.32"> dat </Word>
+      <Word dur="0.22" stime="976.46"> durf ik </Word>
+      <Word dur="0.12" stime="976.78">i </Word>
+      <Word dur="0.23" stime="976.93"> niks </Word>
+      <Word dur="0.24" stime="977.16"> over </Word>
+      <Word dur="0.12" stime="977.4"> te </Word>
+      <Word dur="0.42" stime="977.52"> zeggen </Word>
+      <Word dur="0.18" stime="977.94"> dat </Word>
+      <Word dur="0.21" stime="978.12"> is dat</Word>
+      <Word dur="0.21" stime="979.05">staat </Word>
+      <Word dur="0.24" stime="979.26"> los </Word>
+      <Word dur="0.16" stime="979.5"> van </Word>
+      <Word dur="0.11" stime="979.66"> de </Word>
+      <Word dur="0.21" stime="979.8"> van </Word>
+      <Word dur="0.09" stime="980.01"> de </Word>
+      <Word dur="1.00" stime="980.18"> klantenservice </Word>
+      <Word dur="0.45" stime="981.66"> euh</Word>
+    </SpeechSegment>
+    <SpeechSegment spkid="M1">
+      <Word dur="0.20" stime="987.03"> met </Word>
+      <Word dur="0.33" stime="988.16"> vijf </Word>
+    </SpeechSegment>
+    <SpeechSegment spkid="M1">
+      <Word dur="0.20" stime="991.84"> heeft </Word>
+      <Word dur="0.10" stime="992.04"> hij </Word>
+      <Word dur="0.20" stime="992.14"> dat </Word>
+      <Word dur="0.13" stime="992.34"> toen </Word>
+      <Word dur="0.17" stime="992.48"> niet </Word>
+      <Word dur="0.13" stime="992.65"> meer </Word>
+      <Word dur="0.11" stime="992.78"> zo </Word>
+      <Word dur="0.75" stime="992.89"> doorgenomen </Word>
+      <Word dur="0.18" stime="993.64"> wat </Word>
+      <Word dur="0.15" stime="993.82"> dat </Word>
+      <Word dur="0.51" stime="993.97"> precies </Word>
+    </SpeechSegment>
+    <SpeechSegment spkid="M1">
+      <Word dur="0.14" stime="996.35"> het </Word>
+      <Word dur="0.15" stime="996.57"> is </Word>
+      <Word dur="0.13" stime="996.72"> ook </Word>
+      <Word dur="0.18" stime="996.85"> niet </Word>
+      <Word dur="0.31" stime="997.05"> overgehad </Word>
+      <Word dur="0.17" stime="997.46"> ik </Word>
+      <Word dur="0.21" stime="997.64"> zit </Word>
+      <Word dur="0.24" stime="997.85"> aan </Word>
+      <Word dur="0.45" stime="998.09"> alle </Word>
+      <Word dur="0.12" stime="1000.01"> mee </Word>
+      <Word dur="0.72" stime="1000.13"> beziggeweest </Word>
+      <Word dur="0.14" stime="1001.2"> en </Word>
+      <Word dur="0.08" stime="1001.35"> toen </Word>
+      <Word dur="0.26" stime="1001.44"> zouden </Word>
+      <Word dur="0.27" stime="1001.72"> we </Word>
+      <Word dur="0.38" stime="1002.18"> ook </Word>
+      <Word dur="0.39" stime="1002.56"> onderbreekt </Word>
+      <Word dur="0.16" stime="1002.99"> het </Word>
+      <Word dur="0.19" stime="1003.18"> dak </Word>
+      <Word dur="0.51" stime="1003.43"> opgeschreven </Word>
+      <Word dur="0.23" stime="1004.07"> dat </Word>
+      <Word dur="0.29" stime="1004.3"> daar </Word>
+      <Word dur="0.38" stime="1005.17"> totaal vaste kosten</Word>
+      <Word dur="0.09" stime="1006.33">aan </Word>
+      <Word dur="0.07" stime="1006.42"> het </Word>
+      <Word dur="0.23" stime="1006.49"> eind </Word>
+      <Word dur="0.18" stime="1006.72"> dat </Word>
+      <Word dur="0.66" stime="1006.97"> zesennegentig vijfenvijftig afging </Word>
+      <Word dur="0.24" stime="1009.61">maar </Word>
+      <Word dur="0.15" stime="1010.14"> daar </Word>
+      <Word dur="0.27" stime="1010.3"> staat </Word>
+      <Word dur="0.06" stime="1010.57"> er </Word>
+      <Word dur="0.24" stime="1010.63"> alleen </Word>
+      <Word dur="0.08" stime="1010.87"> maar </Word>
+      <Word dur="0.14" stime="1010.95"> had </Word>
+      <Word dur="0.15" stime="1011.14"> maar </Word>
+      <Word dur="0.09" stime="1011.29"> dat </Word>
+      <Word dur="0.15" stime="1011.38"> wordt </Word>
+      <Word dur="0.24" stime="1011.53"> niks </Word>
+      <Word dur="0.09" stime="1011.77"> mee </Word>
+      <Word dur="0.39" stime="1011.86"> gedaan </Word>
+      <Word dur="0.21" stime="1012.25"> wordt </Word>
+      <Word dur="0.49" stime="1012.65"> verteld </Word>
+      <Word dur="0.13" stime="1013.16"> dat </Word>
+      <Word dur="0.22" stime="1013.36"> wordt er nu af</Word>
+      <Word dur="0.38" stime="1013.96">getrokken </Word>
+    </SpeechSegment>
+    <SpeechSegment spkid="M1">
+      <Word dur="0.30" stime="1015.48"> ja </Word>
+      <Word dur="0.21" stime="1015.79"> dat </Word>
+      <Word dur="0.12" stime="1016"> is </Word>
+      <Word dur="0.45" stime="1016.12"> inderdaad </Word>
+      <Word dur="0.18" stime="1016.57"> heel </Word>
+      <Word dur="0.21" stime="1016.75"> erg </Word>
+      <Word dur="0.54" stime="1016.96"> vreemd </Word>
+      <Word dur="0.16" stime="1017.9"> ja </Word>
+      <Word dur="0.30" stime="1018.58"> ja </Word>
+      <Word dur="0.12" stime="1018.88"> ik </Word>
+      <Word dur="0.24" stime="1019"> durf </Word>
+      <Word dur="0.18" stime="1019.42"> ik </Word>
+      <Word dur="0.19" stime="1019.6"> durf </Word>
+      <Word dur="0.15" stime="1019.86"> of </Word>
+      <Word dur="0.21" stime="1020.08"> niet </Word>
+    </SpeechSegment>
+    <SpeechSegment spkid="M1">
+      <Word dur="0.25" stime="1022.15"> mee </Word>
+      <Word dur="0.51" stime="1022.4"> bedoeld </Word>
+      <Word dur="0.33" stime="1022.91"> is </Word>
+      <Word dur="0.75" stime="1023.72"> aan </Word>
+      <Word dur="0.47" stime="1025.12"> ja </Word>
+      <Word dur="0.11" stime="1025.62"> u </Word>
+      <Word dur="0.21" stime="1025.74"> gaat </Word>
+      <Word dur="0.19" stime="1026.02"> ik </Word>
+      <Word dur="0.16" stime="1026.28"> een </Word>
+      <Word dur="0.19" stime="1026.45"> gaat </Word>
+      <Word dur="0.09" stime="1026.69"> de be</Word>
+      <Word dur="0.56" stime="1026.78">vestiging </Word>
+      <Word dur="0.16" stime="1027.34"> haar </Word>
+      <Word dur="0.17" stime="1027.5"> die </Word>
+      <Word dur="0.66" stime="1027.75"> zult u</Word>
+      <Word dur="0.24" stime="1028.44"> er </Word>
+      <Word dur="0.27" stime="1028.7"> morgen </Word>
+      <Word dur="0.09" stime="1028.97"> of </Word>
+      <Word dur="0.60" stime="1029.06"> overmorgen </Word>
+      <Word dur="0.27" stime="1029.66"> in </Word>
+      <Word dur="0.25" stime="1030.02"> in </Word>
+      <Word dur="0.21" stime="1030.56"> in </Word>
+    </SpeechSegment>
+    <SpeechSegment spkid="M1">
+      <Word dur="0.22" stime="1031.86"> nou </Word>
+      <Word dur="0.21" stime="1032.12"> bij </Word>
+      <Word dur="0.37" stime="1032.35"> post </Word>
+      <Word dur="0.47" stime="1032.74"> ontvangen </Word>
+      <Word dur="0.17" stime="1033.64"> zijn </Word>
+      <Word dur="0.27" stime="1033.83"> ik zou zeggen wacht</Word>
+      <Word dur="0.16" stime="1034.17"> dat eventjes </Word>
+      <Word dur="0.27" stime="1034.82"> af </Word>
+      <Word dur="0.10" stime="1035.1"> en </Word>
+      <Word dur="0.22" stime="1035.2"> kijk </Word>
+      <Word dur="0.12" stime="1035.42"> dus </Word>
+      <Word dur="0.14" stime="1035.57"> in </Word>
+      <Word dur="0.25" stime="1035.91"> even </Word>
+      <Word dur="0.33" stime="1036.17"> allemaal </Word>
+      <Word dur="0.43" stime="1036.53"> na wat er</Word>
+      <Word dur="0.17" stime="1037.12">in </Word>
+      <Word dur="0.62" stime="1037.29"> staat </Word>
+      <Word dur="0.30" stime="1038.45"> er </Word>
+      <Word dur="0.21" stime="1038.83"> nog </Word>
+      <Word dur="0.20" stime="1039.17"> maar </Word>
+      <Word dur="0.15" stime="1039.58"> die </Word>
+      <Word dur="0.45" stime="1039.74"> tarieven </Word>
+      <Word dur="0.51" stime="1040.19"> allemaal </Word>
+      <Word dur="0.69" stime="1041.03"> overeenkomen </Word>
+      <Word dur="0.15" stime="1041.72"> met </Word>
+      <Word dur="0.07" stime="1041.87"> de </Word>
+      <Word dur="0.26" stime="1042.05"> tarieven</Word>
+      <Word dur="0.12" stime="1042.32"> die </Word>
+      <Word dur="0.11" stime="1042.44"> hij </Word>
+      <Word dur="0.50" stime="1042.55"> berekenend </Word>
+      <Word dur="0.46" stime="1043.06"> heeft </Word>
+    </SpeechSegment>
+    <SpeechSegment spkid="M1">
+      <Word dur="0.22" stime="1045.5"> want </Word>
+      <Word dur="0.21" stime="1045.96"> het </Word>
+      <Word dur="0.18" stime="1046.17"> moet </Word>
+      <Word dur="0.33" stime="1046.35"> gewoon </Word>
+      <Word dur="0.18" stime="1046.68"> op </Word>
+      <Word dur="0.21" stime="1046.86"> op </Word>
+      <Word dur="0.36" stime="1047.19"> basis </Word>
+      <Word dur="0.15" stime="1047.55"> van </Word>
+      <Word dur="0.09" stime="1047.7"> het </Word>
+      <Word dur="0.34" stime="1047.79"> verbruik </Word>
+      <Word dur="0.12" stime="1048.13"> wat </Word>
+      <Word dur="0.08" stime="1048.25"> u </Word>
+      <Word dur="0.24" stime="1048.33"> heeft </Word>
+      <Word dur="0.33" stime="1048.57"> gehad </Word>
+      <Word dur="0.16" stime="1048.9"> moet </Word>
+      <Word dur="0.07" stime="1049.06"> er </Word>
+      <Word dur="0.31" stime="1049.13"> gewoon </Word>
+      <Word dur="0.17" stime="1049.44"> want </Word>
+      <Word dur="0.19" stime="1049.69"> het </Word>
+      <Word dur="0.31" stime="1049.98"> eindbedrag </Word>
+      <Word dur="0.15" stime="1050.31"> wordt </Word>
+      <Word dur="0.09" stime="1050.49"> u </Word>
+      <Word dur="0.57" stime="1050.58"> afgesproken </Word>
+      <Word dur="0.24" stime="1051.15"> was </Word>
+      <Word dur="0.22" stime="1051.75"> met </Word>
+      <Word dur="0.19" stime="1052.04"> met </Word>
+      <Word dur="0.36" stime="1052.23"> datgene </Word>
+      <Word dur="0.15" stime="1052.59"> wat </Word>
+      <Word dur="0.15" stime="1052.74"> was </Word>
+      <Word dur="0.33" stime="1052.89"> dat </Word>
+    </SpeechSegment>
+    <SpeechSegment spkid="M1">
+      <Word dur="0.30" stime="1055.04"> en </Word>
+      <Word dur="0.52" stime="1056.72"> kijken </Word>
+    </SpeechSegment>
+    <SpeechSegment spkid="M1">
+      <Word dur="0.17" stime="1060.86"> we </Word>
+      <Word dur="0.33" stime="1061.14"> zoeken </Word>
+      <Word dur="0.16" stime="1061.5"> weer </Word>
+      <Word dur="0.40" stime="1067.44"> ja </Word>
+      <Word dur="0.26" stime="1068.25"> bedrag </Word>
+      <Word dur="0.45" stime="1068.83"> van </Word>
+      <Word dur="1.02" stime="1069.29"> zesennegentig </Word>
+      <Word dur="0.66" stime="1070.4"> euro negentig </Word>
+    </SpeechSegment>
+    <SpeechSegment spkid="M1">
+      <Word dur="0.47" stime="1072.51"> oké </Word>
+      <Word dur="0.15" stime="1073.01"> ja </Word>
+      <Word dur="0.15" stime="1073.16"> want </Word>
+      <Word dur="0.18" stime="1073.31"> hier </Word>
+      <Word dur="0.19" stime="1073.49"> wordt </Word>
+      <Word dur="0.15" stime="1073.7"> dan </Word>
+      <Word dur="0.27" stime="1073.85"> over </Word>
+      <Word dur="0.36" stime="1074.12"> honderd </Word>
+      <Word dur="0.33" stime="1074.51"> euro </Word>
+      <Word dur="0.63" stime="1074.84"> gesproken </Word>
+      <Word dur="0.12" stime="1075.47"> nou </Word>
+      <Word dur="0.21" stime="1075.59"> goed </Word>
+      <Word dur="0.11" stime="1075.8"> dat </Word>
+      <Word dur="0.30" stime="1075.92"> kan </Word>
+      <Word dur="0.17" stime="1076.22"> het </Word>
+      <Word dur="0.13" stime="1076.39"> ten </Word>
+      <Word dur="0.22" stime="1076.52"> alle </Word>
+      <Word dur="0.22" stime="1076.74"> tijde </Word>
+      <Word dur="0.55" stime="1076.96"> aangepast </Word>
+      <Word dur="0.21" stime="1077.51"> worden </Word>
+      <Word dur="0.21" stime="1077.72"> hoor </Word>
+      <Word dur="0.15" stime="1077.93"> dat </Word>
+      <Word dur="0.12" stime="1078.08"> is </Word>
+      <Word dur="0.23" stime="1078.23"> het </Word>
+      <Word dur="0.15" stime="1078.81"> dan </Word>
+      <Word dur="0.08" stime="1079.04"> is </Word>
+      <Word dur="0.07" stime="1079.15"> het </Word>
+      <Word dur="0.45" stime="1079.22"> probleem </Word>
+      <Word dur="0.27" stime="1079.67"> niet </Word>
+    </SpeechSegment>
+    <SpeechSegment spkid="M1">
+      <Word dur="0.37" stime="1081.05"> ja </Word>
+      <Word dur="0.61" stime="1081.57"> maar wat mij</Word>
+      <Word dur="0.31" stime="1083.84">gewoon </Word>
+      <Word dur="0.28" stime="1084.15"> dat </Word>
+      <Word dur="0.16" stime="1084.43"> de </Word>
+      <Word dur="0.35" stime="1084.62"> totale </Word>
+      <Word dur="0.50" stime="1084.97"> bedrag </Word>
+      <Word dur="0.51" stime="1085.71"> berekend </Word>
+      <Word dur="0.21" stime="1086.22"> over </Word>
+      <Word dur="0.12" stime="1086.43"> die </Word>
+      <Word dur="0.35" stime="1087.09"> de </Word>
+      <Word dur="0.53" stime="1088.23"> stroom </Word>
+      <Word dur="0.10" stime="1089.47"> en </Word>
+      <Word dur="0.06" stime="1089.58"> dan </Word>
+      <Word dur="0.16" stime="1089.65"> kan </Word>
+      <Word dur="0.21" stime="1090.18"> tot </Word>
+      <Word dur="0.69" stime="1090.42"> dertienhonderd </Word>
+      <Word dur="0.37" stime="1091.11"> dertien </Word>
+      <Word dur="0.30" stime="1091.49"> euro </Word>
+      <Word dur="0.12" stime="1091.79"> naar </Word>
+      <Word dur="0.54" stime="1092.31"> de </Word>
+      <Word dur="0.32" stime="1092.9"> andere </Word>
+      <Word dur="0.54" stime="1095.06"> zestig </Word>
+      <Word dur="0.22" stime="1096.16"> dan </Word>
+      <Word dur="0.40" stime="1096.49"> gedeeld door </Word>
+      <Word dur="0.39" stime="1096.9">twaalf kom ik op </Word>
+      <Word dur="0.22" stime="1097.83">zelfs </Word>
+    </SpeechSegment>
+    <SpeechSegment spkid="M1">
+      <Word dur="0.31" stime="1098.74"> ja </Word>
+      <Word dur="0.47" stime="1099.11"> precies </Word>
+      <Word dur="0.18" stime="1099.6"> ja </Word>
+      <Word dur="0.12" stime="1099.78"> dan </Word>
+      <Word dur="0.21" stime="1099.9"> is </Word>
+      <Word dur="0.18" stime="1100.11"> gewoon </Word>
+      <Word dur="0.09" stime="1100.29"> een </Word>
+      <Word dur="0.24" stime="1100.38"> beetje </Word>
+      <Word dur="0.49" stime="1100.62"> afgerond </Word>
+      <Word dur="0.19" stime="1101.11"> naar </Word>
+      <Word dur="0.30" stime="1101.31"> boven </Word>
+      <Word dur="0.15" stime="1101.61"> naar </Word>
+      <Word dur="0.69" stime="1101.76"> honderd </Word>
+      <Word dur="0.54" stime="1103.11">euro </Word>
+      <Word dur="0.57" stime="1104.25"> aan </Word>
+    </SpeechSegment>
+    <SpeechSegment spkid="M1">
+      <Word dur="0.32" stime="1104.88"> ja </Word>
+      <Word dur="0.38" stime="1106.13"> trouwens </Word>
+      <Word dur="0.19" stime="1106.57"> zal </Word>
+      <Word dur="0.42" stime="1106.77"> gevraagd </Word>
+      <Word dur="0.30" stime="1107.19"> geloof </Word>
+      <Word dur="0.15" stime="1107.49"> ik </Word>
+    </SpeechSegment>
+    <SpeechSegment spkid="M1">
+      <Word dur="0.12" stime="1108.8"> dat </Word>
+      <Word dur="0.11" stime="1109.01"> was </Word>
+      <Word dur="0.19" stime="1109.43"> een </Word>
+      <Word dur="0.45" stime="1110.03"> rond </Word>
+      <Word dur="0.45" stime="1110.48"> bedrag </Word>
+      <Word dur="0.31" stime="1110.93"> van </Word>
+      <Word dur="0.32" stime="1111.33"> naar </Word>
+      <Word dur="0.24" stime="1111.85"> het </Word>
+      <Word dur="0.13" stime="1112.21"> zou </Word>
+      <Word dur="0.12" stime="1112.34"> wel </Word>
+      <Word dur="0.30" stime="1112.46"> kunnen </Word>
+      <Word dur="0.12" stime="1112.76"> ja </Word>
+      <Word dur="0.15" stime="1112.88"> dat </Word>
+      <Word dur="0.23" stime="1113.03"> klopt </Word>
+      <Word dur="0.35" stime="1113.26"> wel</Word>
+    </SpeechSegment>
+    <SpeechSegment spkid="M1">
+      <Word dur="0.39" stime="1113.63"> ja </Word>
+      <Word dur="0.15" stime="1114.38"> en </Word>
+      <Word dur="0.18" stime="1114.53"> als </Word>
+      <Word dur="0.13" stime="1114.71"> die </Word>
+      <Word dur="0.08" stime="1114.84"> het </Word>
+      <Word dur="0.23" stime="1115.26"> en </Word>
+      <Word dur="0.35" stime="1115.5"> misschien </Word>
+      <Word dur="0.12" stime="1115.85"> is </Word>
+      <Word dur="0.12" stime="1115.97"> ie </Word>
+      <Word dur="0.15" stime="1116.09"> van </Word>
+      <Word dur="0.06" stime="1116.24"> die </Word>
+      <Word dur="0.57" stime="1116.3"> zesennegentig </Word>
+      <Word dur="0.21" stime="1116.87"> euro </Word>
+      <Word dur="0.79" stime="1117.08"> vijfenvijftig </Word>
+      <Word dur="0.41" stime="1117.9"> misschien </Word>
+      <Word dur="0.12" stime="1118.31"> is </Word>
+      <Word dur="0.15" stime="1118.43"> dat </Word>
+      <Word dur="0.15" stime="1118.58"> wat </Word>
+      <Word dur="0.29" stime="1118.73"> bedoelt </Word>
+      <Word dur="0.16" stime="1119.03"> met </Word>
+      <Word dur="0.08" stime="1119.19"> je </Word>
+      <Word dur="0.18" stime="1119.27"> met </Word>
+      <Word dur="0.09" stime="1119.45"> die </Word>
+      <Word dur="0.31" stime="1119.54"> oplopen</Word>
+      <Word dur="0.22" stime="1120">de </Word>
+      <Word dur="0.46" stime="1120.25"> kortingen </Word>
+      <Word dur="0.25" stime="1120.71"> die </Word>
+      <Word dur="0.15" stime="1120.95"> die </Word>
+      <Word dur="0.21" stime="1121.1"> na </Word>
+      <Word dur="0.33" stime="1121.31"> vier </Word>
+      <Word dur="0.33" stime="1121.64"> jaar </Word>
+      <Word dur="0.21" stime="1122.3"> geld ik durf het u</Word>
+      <Word dur="0.16" stime="1122.96">niet </Word>
+      <Word dur="0.07" stime="1123.12"> te </Word>
+      <Word dur="0.33" stime="1123.2"> zeggen </Word>
+    </SpeechSegment>
+    <SpeechSegment spkid="M1">
+      <Word dur="0.27" stime="1125.17"> ja </Word>
+      <Word dur="0.37" stime="1126.65"> dus </Word>
+    </SpeechSegment>
+    <SpeechSegment spkid="M1">
+      <Word dur="0.19" stime="1130.39"> houdt </Word>
+      <Word dur="0.14" stime="1130.64"> nog </Word>
+      <Word dur="0.08" stime="1130.79"> een </Word>
+      <Word dur="0.18" stime="1131.13"> keer heeft u </Word>
+      <Word dur="0.33" stime="1133.31">gelijk in </Word>
+      <Word dur="0.18" stime="1133.65"> en </Word>
+      <Word dur="0.60" stime="1134.33"> daarom </Word>
+      <Word dur="0.18" stime="1136.42"> trui </Word>
+      <Word dur="0.28" stime="1136.89"> zitten </Word>
+      <Word dur="0.20" stime="1137.17"> allemaal </Word>
+      <Word dur="0.55" stime="1137.5"> netjes </Word>
+      <Word dur="0.39" stime="1140.06"> gebruiken </Word>
+      <Word dur="0.17" stime="1140.86"> maar </Word>
+      <Word dur="0.35" stime="1141.77"> alles </Word>
+      <Word dur="0.36" stime="1144.59"> duidelijk </Word>
+      <Word dur="0.27" stime="1145.36"> gehoord </Word>
+      <Word dur="0.20" stime="1145.78"> dat </Word>
+      <Word dur="0.18" stime="1145.98"> het </Word>
+      <Word dur="0.27" stime="1146.29"> eigenlijk </Word>
+      <Word dur="0.31" stime="1146.66"> juist </Word>
+    </SpeechSegment>
+    <SpeechSegment spkid="M1">
+      <Word dur="0.10" stime="1148.63"> bent </Word>
+      <Word dur="0.14" stime="1148.99"> met </Word>
+      <Word dur="0.12" stime="1149.21"> je </Word>
+      <Word dur="0.25" stime="1149.42"> niet </Word>
+      <Word dur="0.18" stime="1149.69"> bij </Word>
+      <Word dur="0.16" stime="1149.86"> te </Word>
+      <Word dur="0.15" stime="1150.02"> zijn </Word>
+    </SpeechSegment>
+    <SpeechSegment spkid="M1">
+      <Word dur="0.23" stime="1150.22"> nee </Word>
+      <Word dur="0.43" stime="1150.45"> precies </Word>
+      <Word dur="0.08" stime="1150.93"> in </Word>
+      <Word dur="0.36" stime="1151.03"> totaal </Word>
+      <Word dur="0.33" stime="1151.39"> vaste </Word>
+      <Word dur="0.41" stime="1151.72"> kosten </Word>
+      <Word dur="0.24" stime="1152.14"> min </Word>
+      <Word dur="0.24" stime="1152.38"> zes </Word>
+      <Word dur="0.83" stime="1153.15"> vijfenvijftig </Word>
+      <Word dur="0.37" stime="1154"> zegt  u</Word>
+    </SpeechSegment>
+    <SpeechSegment spkid="M1">
+      <Word dur="0.23" stime="1155.84"> ja </Word>
+      <Word dur="0.27" stime="1156.43"> nou ja het is </Word>
+      <Word dur="0.11" stime="1158.39">voor </Word>
+      <Word dur="0.39" stime="1158.5"> mij </Word>
+      <Word dur="0.19" stime="1159.73"> zou </Word>
+      <Word dur="0.23" stime="1160.13"> willen</Word>
+      <Word dur="0.13" stime="1160.36">wat daar nou </Word>
+      <Word dur="0.18" stime="1162.52">mee </Word>
+      <Word dur="0.42" stime="1162.7"> bedoeld </Word>
+      <Word dur="0.41" stime="1163.12"> wordt </Word>
+      <Word dur="0.27" stime="1163.93"> dus </Word>
+      <Word dur="0.26" stime="1165.26"> mijn </Word>
+      <Word dur="0.25" stime="1165.54">u </Word>
+      <Word dur="0.19" stime="1166.14">is </Word>
+      <Word dur="0.23" stime="1166.51"> wacht </Word>
+      <Word dur="0.10" stime="1166.78"> een </Word>
+      <Word dur="0.22" stime="1166.89"> gewone </Word>
+      <Word dur="0.54" stime="1167.11"> bevestiging </Word>
+      <Word dur="0.18" stime="1167.66"> even</Word>
+      <Word dur="0.36" stime="1167.89"> af </Word>
+      <Word dur="0.15" stime="1168.25"> en </Word>
+      <Word dur="0.10" stime="1168.57"> leest u het </Word>
+      <Word dur="0.19" stime="1168.69"> even </Word>
+      <Word dur="0.32" stime="1168.92"> rustig </Word>
+      <Word dur="0.31" stime="1169.32"> door </Word>
+      <Word dur="0.70" stime="1169.65"> allemaal </Word>
+      <Word dur="0.38" stime="1171.48"> nog </Word>
+      <Word dur="0.21" stime="1171.88"> even </Word>
+      <Word dur="0.09" stime="1172.09"> te </Word>
+      <Word dur="0.36" stime="1172.18"> kijken </Word>
+    </SpeechSegment>
+    <SpeechSegment spkid="M1">
+      <Word dur="0.16" stime="1173.57"> het </Word>
+      <Word dur="0.47" stime="1175.84"> vast </Word>
+    </SpeechSegment>
+    <SpeechSegment spkid="M1">
+      <Word dur="0.15" stime="1179.95"> dag </Word>
+      <Word dur="0.12" stime="1180.38"> in </Word>
+      <Word dur="0.39" stime="1180.52"> principe </Word>
+      <Word dur="0.24" stime="1180.91"> dat </Word>
+      <Word dur="0.21" stime="1181.15"> er </Word>
+      <Word dur="0.12" stime="1181.39"> bij </Word>
+      <Word dur="0.27" stime="1181.51"> jullie </Word>
+      <Word dur="0.17" stime="1181.78"> dan </Word>
+      <Word dur="0.15" stime="1181.95"> ook </Word>
+      <Word dur="0.31" stime="1182.11"> bekend </Word>
+      <Word dur="0.37" stime="1182.67"> als </Word>
+      <Word dur="0.20" stime="1188.91"> en </Word>
+      <Word dur="0.12" stime="1189.28"> daar </Word>
+      <Word dur="0.27" stime="1189.48"> staat </Word>
+      <Word dur="0.17" stime="1189.76"> ook </Word>
+      <Word dur="0.34" stime="1189.93"> op </Word>
+    </SpeechSegment>
+    <SpeechSegment spkid="M1">
+      <Word dur="0.23" stime="1192.11"> een m</Word>
+      <Word dur="0.24" stime="1192.89">aar </Word>
+      <Word dur="0.30" stime="1193.5"> staat die </Word>
+      <Word dur="0.58" stime="1193.9">zesennegentig </Word>
+      <Word dur="0.66" stime="1194.48"> vijfenvijftig </Word>
+      <Word dur="0.18" stime="1195.14"> daar </Word>
+      <Word dur="0.15" stime="1195.32"> dan </Word>
+      <Word dur="0.21" stime="1195.47"> ook </Word>
+      <Word dur="0.21" stime="1195.68"> op </Word>
+      <Word dur="0.28" stime="1195.91"> zegt </Word>
+      <Word dur="0.13" stime="1196.18"> u </Word>
+    </SpeechSegment>
+    <SpeechSegment spkid="M1">
+      <Word dur="0.21" stime="1197.38"> want </Word>
+      <Word dur="0.14" stime="1197.78"> ik </Word>
+      <Word dur="0.18" stime="1197.92"> heb </Word>
+      <Word dur="0.09" stime="1198.1"> er </Word>
+      <Word dur="0.18" stime="1198.19"> nog </Word>
+      <Word dur="0.12" stime="1198.37"> een </Word>
+      <Word dur="0.36" stime="1198.49"> ouwe </Word>
+      <Word dur="0.35" stime="1199.52"> voordat </Word>
+      <Word dur="0.36" stime="1199.94"> die man </Word>
+      <Word dur="0.33" stime="1200.95">vorige </Word>
+      <Word dur="0.18" stime="1201.28"> week </Word>
+      <Word dur="0.21" stime="1201.46"> hier </Word>
+      <Word dur="0.27" stime="1201.72"> geweest is en daar staat het</Word>
+      <Word dur="0.45" stime="1202.54"> hetzelfde </Word>
+      <Word dur="0.42" stime="1202.99"> handeltjes </Word>
+      <Word dur="0.24" stime="1203.41"> op </Word>
+      <Word dur="0.24" stime="1204.37"> na </Word>
+      <Word dur="0.06" stime="1204.61"> de vaste kosten </Word>
+      <Word dur="0.82" stime="1207.21">vijfenvijftig </Word>
+    </SpeechSegment>
+    <SpeechSegment spkid="M1">
+      <Word dur="0.12" stime="1209.38"> ik </Word>
+      <Word dur="0.15" stime="1209.52"> zal eens even</Word>
+      <Word dur="0.12" stime="1209.98">gaan </Word>
+      <Word dur="0.36" stime="1210.11"> kijken </Word>
+      <Word dur="0.21" stime="1210.47"> hoor </Word>
+      <Word dur="0.28" stime="1210.68"> want </Word>
+    </SpeechSegment>
+    <SpeechSegment spkid="M1">
+      <Word dur="0.22" stime="1213.71"> dag </Word>
+    </SpeechSegment>
+    <SpeechSegment spkid="M1">
+      <Word dur="0.12" stime="1219.34"> dan </Word>
+      <Word dur="0.16" stime="1219.46"> kun </Word>
+      <Word dur="0.10" stime="1219.62"> je </Word>
+      <Word dur="0.19" stime="1219.74"> ook </Word>
+      <Word dur="0.84" stime="1220.5"> aangegeven </Word>
+      <Word dur="0.25" stime="1221.41"> maar </Word>
+      <Word dur="0.26" stime="1221.66"> ook </Word>
+      <Word dur="0.47" stime="1223.78"> de </Word>
+      <Word dur="0.23" stime="1224.56"> kuub </Word>
+      <Word dur="0.32" stime="1224.81"> gas </Word>
+      <Word dur="0.39" stime="1225.13"> gedaan e</Word>
+      <Word dur="0.15" stime="1225.52">n </Word>
+      <Word dur="0.45" stime="1225.67"> alles </Word>
+    </SpeechSegment>
+    <SpeechSegment spkid="M1">
+      <Word dur="0.10" stime="1226.63"> ik </Word>
+      <Word dur="0.17" stime="1227.07"> gaat </Word>
+      <Word dur="0.40" stime="1227.33"> eventjes </Word>
+      <Word dur="0.33" stime="1227.74"> kijken </Word>
+      <Word dur="0.50" stime="1228.08"> meneer </Word>
+      <Word dur="0.24" stime="1229.53"> een </Word>
+      <Word dur="0.63" stime="1230.26"> contract </Word>
+      <Word dur="0.28" stime="1231.22"> in </Word>
+      <Word dur="0.31" stime="1231.54"> ja </Word>
+      <Word dur="0.12" stime="1231.85"> ik </Word>
+      <Word dur="0.12" stime="1231.97"> ga </Word>
+      <Word dur="0.16" stime="1232.1"> dan </Word>
+      <Word dur="0.21" stime="1232.26"> nog </Word>
+      <Word dur="0.21" stime="1232.6"> even </Word>
+      <Word dur="0.15" stime="1232.81"> dat </Word>
+      <Word dur="0.27" stime="1232.99"> zelf </Word>
+      <Word dur="0.40" stime="1233.45"> doen </Word>
+    </SpeechSegment>
+    <SpeechSegment spkid="M1">
+      <Word dur="0.11" stime="1234.04"> het </Word>
+      <Word dur="0.26" stime="1236.35"> was </Word>
+      <Word dur="0.33" stime="1243.22"> eigenlijk </Word>
+      <Word dur="0.36" stime="1245.71"> bedoeld </Word>
+      <Word dur="0.34" stime="1246.11"> wordt </Word>
+      <Word dur="0.35" stime="1246.68"> nummer </Word>
+      <Word dur="0.30" stime="1247.37"> vier </Word>
+      <Word dur="0.18" stime="1247.75"> uur </Word>
+      <Word dur="0.67" stime="1248.14"> terug </Word>
+    </SpeechSegment>
+    <SpeechSegment spkid="M1">
+      <Word dur="0.33" stime="1251.56"> even </Word>
+      <Word dur="0.42" stime="1251.89"> kijken </Word>
+      <Word dur="0.18" stime="1252.34"> en </Word>
+      <Word dur="0.07" stime="1252.55"> dat </Word>
+      <Word dur="0.15" stime="1252.64"> was </Word>
+      <Word dur="0.44" stime="1252.82"> assessment </Word>
+      <Word dur="0.12" stime="1253.25"> en </Word>
+      <Word dur="0.17" stime="1253.37"> twintig </Word>
+      <Word dur="1.43" stime="1253.57"> honderdnegenenzestig </Word>
+      <Word dur="0.26" stime="1255.04"> kinderen </Word>
+      <Word dur="0.72" stime="1255.33"> was </Word>
+    </SpeechSegment>
+    <SpeechSegment spkid="M2">
+      <Word dur="0.54" stime="1262.64"> duizend </Word>
+      <Word dur="0.24" stime="1263.18"> kuub </Word>
+      <Word dur="0.72" stime="1263.42"> gas </Word>
+      <Word dur="0.23" stime="1269.01"> terug </Word>
+    </SpeechSegment>
+    <SpeechSegment spkid="M1">
+      <Word dur="0.43" stime="1272.62"> inderdaad </Word>
+      <Word dur="0.18" stime="1274.11"> te </Word>
+      <Word dur="0.57" stime="1275.74"> doen </Word>
+    </SpeechSegment>
+    <SpeechSegment spkid="M1">
+      <Word dur="0.35" stime="1279"> twee </Word>
+      <Word dur="0.34" stime="1279.67"> ie </Word>
+    </SpeechSegment>
+    <SpeechSegment spkid="M1">
+      <Word dur="0.13" stime="1293.66"> ja </Word>
+      <Word dur="0.14" stime="1293.8"> het </Word>
+      <Word dur="0.66" stime="1293.99"> zesendertig </Word>
+      <Word dur="0.31" stime="1294.72"> euro </Word>
+      <Word dur="1.24" stime="1295.11"> vijfenvijftig </Word>
+      <Word dur="0.26" stime="1296.72"> zien </Word>
+      <Word dur="0.18" stime="1297.01"> hoor </Word>
+    </SpeechSegment>
+    <SpeechSegment spkid="M1">
+      <Word dur="0.17" stime="1300.49"> ja </Word>
+      <Word dur="0.15" stime="1300.73"> maar </Word>
+      <Word dur="0.10" stime="1300.89"> daar </Word>
+      <Word dur="0.12" stime="1301"> hebben </Word>
+      <Word dur="0.27" stime="1301.17"> misschien </Word>
+      <Word dur="0.14" stime="1301.45"> al </Word>
+      <Word dur="0.10" stime="1301.58"> een </Word>
+      <Word dur="0.34" stime="1301.68"> maand </Word>
+      <Word dur="0.30" stime="1302.03"> terug </Word>
+      <Word dur="0.25" stime="1302.36"> dan </Word>
+      <Word dur="0.21" stime="1303.35"> zou </Word>
+      <Word dur="0.12" stime="1303.56"> ik </Word>
+      <Word dur="0.21" stime="1303.68"> nou </Word>
+      <Word dur="0.09" stime="1303.89"> in </Word>
+      <Word dur="0.15" stime="1303.98"> één </Word>
+      <Word dur="0.12" stime="1304.13"> keer </Word>
+      <Word dur="0.10" stime="1304.25"> dat </Word>
+      <Word dur="0.30" stime="1304.37"> briefje </Word>
+      <Word dur="0.22" stime="1304.67"> zitten </Word>
+      <Word dur="0.17" stime="1304.91"> dat </Word>
+      <Word dur="0.07" stime="1305.08"> ik </Word>
+      <Word dur="0.25" stime="1305.23"> zelf </Word>
+      <Word dur="0.16" stime="1305.48"> ook </Word>
+      <Word dur="0.07" stime="1305.63"> een </Word>
+      <Word dur="0.26" stime="1305.7"> keer </Word>
+      <Word dur="0.12" stime="1305.96"> ik </Word>
+      <Word dur="0.17" stime="1306.08"> wist </Word>
+      <Word dur="0.17" stime="1306.26"> dat </Word>
+      <Word dur="0.09" stime="1306.45"> hard </Word>
+      <Word dur="0.13" stime="1306.58"> mee </Word>
+      <Word dur="0.7" stime="1306.73"> beziggeweest </Word>
+    </SpeechSegment>
+    <SpeechSegment spkid="M1">
+      <Word dur="0.57" stime="1307.84"> ja </Word>
+      <Word dur="0.12" stime="1308.41"> ik </Word>
+      <Word dur="0.17" stime="1308.57"> schiet </Word>
+      <Word dur="0.21" stime="1308.86"> staan </Word>
+      <Word dur="0.24" stime="1309.13"> hoor </Word>
+      <Word dur="0.38" stime="1309.46"> momentje </Word>
+      <Word dur="0.24" stime="1309.85"> graag </Word>
+      <Word dur="0.12" stime="1310.12"> ik </Word>
+      <Word dur="0.14" stime="1310.24"> zet </Word>
+      <Word dur="0.07" stime="1310.38"> 'm </Word>
+      <Word dur="0.30" stime="1310.45"> nog </Word>
+      <Word dur="0.48" stime="1310.81"> eenmalig </Word>
+      <Word dur="0.09" stime="1311.29"> in </Word>
+      <Word dur="0.06" stime="1311.38"> de </Word>
+      <Word dur="0.27" stime="1311.44"> wacht </Word>
+      <Word dur="0.16" stime="1311.76"> komt </Word>
+      <Word dur="0.08" stime="1311.93"> ze </Word>
+      <Word dur="0.09" stime="1312.02"> al </Word>
+      <Word dur="0.13" stime="1312.11"> bij </Word>
+      <Word dur="0.20" stime="1312.26"> trouw </Word>
+    </SpeechSegment>
+    <SpeechSegment spkid="M1">
+      <Word dur="0.26" stime="1445.17"> of </Word>
+      <Word dur="0.25" stime="1445.47"> alvast </Word>
+      <Word dur="0.32" stime="1445.73"> nogmaals </Word>
+      <Word dur="0.33" stime="1446.05"> bedankt </Word>
+      <Word dur="0.09" stime="1446.38"> voor </Word>
+      <Word dur="0.06" stime="1446.47"> het </Word>
+      <Word dur="0.45" stime="1446.53"> wachten </Word>
+    </SpeechSegment>
+    <SpeechSegment spkid="M1">
+      <Word dur="0.24" stime="1448.09"> nou </Word>
+      <Word dur="0.23" stime="1448.58"> zijn </Word>
+      <Word dur="0.12" stime="1448.81"> dat </Word>
+      <Word dur="0.16" stime="1448.96"> we </Word>
+      <Word dur="0.27" stime="1449.48"> zijn </Word>
+      <Word dur="0.25" stime="1449.88"> uit </Word>
+      <Word dur="0.13" stime="1450.77"> d'r </Word>
+      <Word dur="0.16" stime="1450.94"> wordt </Word>
+      <Word dur="0.24" stime="1451.1"> dan </Word>
+      <Word dur="0.27" stime="1451.37"> gewoon </Word>
+      <Word dur="0.10" stime="1451.65"> een </Word>
+      <Word dur="0.69" stime="1451.94"> optelsom </Word>
+      <Word dur="0.51" stime="1452.63"> gemaakt </Word>
+      <Word dur="0.23" stime="1453.14"> van </Word>
+      <Word dur="0.25" stime="1453.37"> de </Word>
+      <Word dur="0.25" stime="1454.22"> net </Word>
+      <Word dur="0.75" stime="1454.49"> beheerskosten </Word>
+      <Word dur="0.21" stime="1455.24"> van </Word>
+      <Word dur="1.25" stime="1455.45"> tweehonderdzevenendertig </Word>
+      <Word dur="0.27" stime="1456.71"> euro </Word>
+      <Word dur="0.28" stime="1456.99"> achter </Word>
+      <Word dur="0.27" stime="1457.3"> zich </Word>
+    </SpeechSegment>
+    <SpeechSegment spkid="M1">
+      <Word dur="0.15" stime="1459.62"> de </Word>
+      <Word dur="0.39" stime="1459.78"> vaste </Word>
+      <Word dur="0.48" stime="1460.17"> leverings- </Word>
+      <Word dur="0.38" stime="1460.65"> kosten </Word>
+      <Word dur="0.19" stime="1461.03"> van </Word>
+      <Word dur="0.84" stime="1461.22"> negenendertig </Word>
+      <Word dur="0.60" stime="1462.12"> euro </Word>
+      <Word dur="0.39" stime="1463.56"> dan </Word>
+      <Word dur="0.36" stime="1464.4"> binnendringen </Word>
+      <Word dur="0.96" stime="1464.85"> energiebelasting </Word>
+      <Word dur="0.33" stime="1465.81"> van </Word>
+      <Word dur="1.35" stime="1466.26"> driehonderddrieënzeventig </Word>
+      <Word dur="0.28" stime="1467.66"> euro </Word>
+      <Word dur="0.99" stime="1467.94"> drieëndertig </Word>
+      <Word dur="0.27" stime="1469.56"> en </Word>
+      <Word dur="0.29" stime="1470.04"> dan </Word>
+      <Word dur="0.35" stime="1470.35"> houden </Word>
+      <Word dur="0.21" stime="1470.7"> we </Word>
+      <Word dur="0.24" stime="1471.03"> dat </Word>
+      <Word dur="0.48" stime="1471.3"> bedrag </Word>
+      <Word dur="0.57" stime="1471.81"> over </Word>
+    </SpeechSegment>
+    <SpeechSegment spkid="M1">
+      <Word dur="0.33" stime="1473.2"> daar </Word>
+      <Word dur="0.18" stime="1473.53"> zit </Word>
+      <Word dur="0.10" stime="1473.88"> hem </Word>
+      <Word dur="0.26" stime="1473.99"> in </Word>
+    </SpeechSegment>
+    <SpeechSegment spkid="M1">
+      <Word dur="0.19" stime="1480.57"> dat </Word>
+      <Word dur="0.20" stime="1481.06"> is </Word>
+      <Word dur="0.45" stime="1481.39"> eigenlijk </Word>
+      <Word dur="0.20" stime="1481.85"> een </Word>
+      <Word dur="0.19" stime="1482.08"> een </Word>
+      <Word dur="0.24" stime="1482.3"> een </Word>
+      <Word dur="0.15" stime="1482.98"> een </Word>
+      <Word dur="0.54" stime="1483.13"> optelsom </Word>
+      <Word dur="0.36" stime="1483.67"> gemaakt </Word>
+      <Word dur="0.12" stime="1484.03"> van </Word>
+      <Word dur="0.09" stime="1484.15"> de </Word>
+      <Word dur="0.33" stime="1484.24"> vaste </Word>
+      <Word dur="0.33" stime="1484.58"> leven </Word>
+      <Word dur="0.28" stime="1484.93"> vast </Word>
+      <Word dur="0.20" stime="1485.22"> en </Word>
+      <Word dur="0.09" stime="1485.42"> de </Word>
+      <Word dur="0.45" stime="1485.52"> netbeheerders </Word>
+      <Word dur="0.63" stime="1485.98"> kosten </Word>
+      <Word dur="0.18" stime="1487"> dan </Word>
+      <Word dur="0.18" stime="1487.18"> is </Word>
+      <Word dur="0.09" stime="1487.36"> de </Word>
+      <Word dur="0.84" stime="1487.45"> energiebelasting </Word>
+      <Word dur="0.23" stime="1488.29"> is </Word>
+      <Word dur="0.87" stime="1488.68"> afgehaald </Word>
+      <Word dur="0.15" stime="1489.82"> en </Word>
+      <Word dur="0.21" stime="1489.97"> dan </Word>
+      <Word dur="0.27" stime="1490.18"> houdt </Word>
+      <Word dur="0.12" stime="1490.45"> u </Word>
+      <Word dur="0.33" stime="1490.57"> dat </Word>
+      <Word dur="0.34" stime="1491.28"> bedrag </Word>
+      <Word dur="0.33" stime="1491.62"> over </Word>
+      <Word dur="0.15" stime="1491.95"> van </Word>
+      <Word dur="0.09" stime="1492.1"> die </Word>
+      <Word dur="0.75" stime="1492.19"> zesennegentig </Word>
+      <Word dur="0.20" stime="1492.94"> euro </Word>
+      <Word dur="0.29" stime="1493.15"> vijf </Word>
+    </SpeechSegment>
+    <SpeechSegment spkid="M1">
+      <Word dur="0.54" stime="1493.52"> vijftig </Word>
+      <Word dur="0.12" stime="1494.06"> en </Word>
+      <Word dur="0.15" stime="1494.18"> dat </Word>
+      <Word dur="0.18" stime="1494.33"> wordt </Word>
+      <Word dur="0.36" stime="1494.51"> bedoeld </Word>
+      <Word dur="0.13" stime="1494.87"> met </Word>
+      <Word dur="0.45" stime="1495.26"> talen </Word>
+      <Word dur="0.36" stime="1495.98"> vaste </Word>
+      <Word dur="0.54" stime="1496.34"> kosten </Word>
+      <Word dur="0.17" stime="1497.08"> hè </Word>
+      <Word dur="0.16" stime="1497.27"> die </Word>
+      <Word dur="0.15" stime="1497.44"> de </Word>
+      <Word dur="0.33" stime="1497.67"> dan </Word>
+      <Word dur="0.13" stime="1498"> die </Word>
+      <Word dur="0.13" stime="1498.13"> d'r </Word>
+      <Word dur="0.18" stime="1498.26"> dan </Word>
+      <Word dur="0.51" stime="1498.47"> afgaan </Word>
+      <Word dur="0.15" stime="1498.98"> van </Word>
+      <Word dur="0.69" stime="1499.13"> zesennegentig </Word>
+      <Word dur="0.21" stime="1499.82"> euro </Word>
+      <Word dur="1.02" stime="1500.03"> vijfenvijftig </Word>
+      <Word dur="0.13" stime="1501.47"> en </Word>
+      <Word dur="0.08" stime="1501.6"> nu </Word>
+      <Word dur="0.27" stime="1501.68"> komt </Word>
+      <Word dur="0.12" stime="1501.95"> dan </Word>
+      <Word dur="0.21" stime="1502.07"> ook </Word>
+      <Word dur="0.21" stime="1502.28"> uit </Word>
+      <Word dur="0.12" stime="1502.49"> op </Word>
+      <Word dur="0.08" stime="1502.61"> het </Word>
+      <Word dur="0.34" stime="1502.69"> totaal </Word>
+      <Word dur="0.15" stime="1503.03"> van </Word>
+      <Word dur="0.33" stime="1503.18"> dertien </Word>
+      <Word dur="0.6" stime="1503.51"> tweeëntwintig </Word>
+      <Word dur="1.05" stime="1504.14"> vijfenzeventig </Word>
+      <Word dur="0.60" stime="1505.79"> ongeveer </Word>
+      <Word dur="0.15" stime="1506.42"> om </Word>
+      <Word dur="0.06" stime="1506.57"> en </Word>
+      <Word dur="0.33" stime="1506.63"> nabij </Word>
+    </SpeechSegment>
+    <SpeechSegment spkid="M1">
+      <Word dur="0.27" stime="1509.18"> ja </Word>
+      <Word dur="0.30" stime="1509.47"> dertien </Word>
+      <Word dur="0.36" stime="1509.78"> dertien </Word>
+      <Word dur="0.15" stime="1510.14"> jaar </Word>
+      <Word dur="0.19" stime="1510.29"> dit </Word>
+      <Word dur="0.20" stime="1510.56"> zijn </Word>
+      <Word dur="0.09" stime="1510.77"> de </Word>
+      <Word dur="0.24" stime="1510.86"> nieuwe </Word>
+      <Word dur="0.39" stime="1511.1"> tarieven </Word>
+      <Word dur="0.15" stime="1511.49"> dus </Word>
+      <Word dur="0.09" stime="1511.64"> u </Word>
+      <Word dur="0.24" stime="1511.73"> heeft </Word>
+      <Word dur="0.09" stime="1511.97"> nog </Word>
+      <Word dur="0.07" stime="1512.06"> een </Word>
+      <Word dur="0.29" stime="1512.13"> keer </Word>
+      <Word dur="0.18" stime="1512.42"> wat </Word>
+      <Word dur="0.30" stime="1512.6"> andere </Word>
+      <Word dur="0.51" stime="1512.9"> tarieven </Word>
+      <Word dur="0.21" stime="1513.83"> maar </Word>
+      <Word dur="0.33" stime="1514.07"> daar </Word>
+      <Word dur="0.14" stime="1514.4"> zit </Word>
+      <Word dur="0.11" stime="1514.59"> 'm </Word>
+      <Word dur="0.21" stime="1514.79"> dus </Word>
+      <Word dur="0.12" stime="1515"> in </Word>
+      <Word dur="0.10" stime="1515.12"> die </Word>
+      <Word dur="0.19" stime="1515.22"> zes </Word>
+      <Word dur="0.17" stime="1515.41"> negen </Word>
+      <Word dur="0.98" stime="1515.96"> vijfenvijftig </Word>
+    </SpeechSegment>
+    <SpeechSegment spkid="M1">
+      <Word dur="0.21" stime="1517.98"> nog </Word>
+      <Word dur="0.21" stime="1518.19"> één </Word>
+      <Word dur="0.09" stime="1518.4"> keer </Word>
+      <Word dur="0.33" stime="1518.49"> zeggen </Word>
+      <Word dur="0.18" stime="1518.82"> wat </Word>
+      <Word dur="0.07" stime="1519"> er </Word>
+      <Word dur="0.17" stime="1519.07"> wel </Word>
+      <Word dur="0.28" stime="1519.25"> was </Word>
+      <Word dur="0.43" stime="1519.58"> levens </Word>
+      <Word dur="0.33" stime="1520.02"> kost </Word>
+      <Word dur="0.36" stime="1520.68"> dertig </Word>
+      <Word dur="0.45" stime="1521.04"> euro </Word>
+    </SpeechSegment>
+    <SpeechSegment spkid="M1">
+      <Word dur="0.22" stime="1522.07"> ga </Word>
+      <Word dur="0.09" stime="1522.4"> maar </Word>
+      <Word dur="0.63" stime="1522.51"> eventjes </Word>
+      <Word dur="0.14" stime="1523.19"> een </Word>
+      <Word dur="0.17" stime="1523.48"> aan </Word>
+      <Word dur="0.13" stime="1523.65"> het </Word>
+      <Word dur="0.37" stime="1523.8"> zo </Word>
+      <Word dur="0.24" stime="1524.23"> even </Word>
+      <Word dur="0.36" stime="1524.47"> kijken </Word>
+      <Word dur="0.33" stime="1525.04"> vaste </Word>
+      <Word dur="0.41" stime="1525.37"> leverings- </Word>
+      <Word dur="0.36" stime="1525.78"> kostte </Word>
+      <Word dur="0.79" stime="1526.14"> negenendertig </Word>
+      <Word dur="0.48" stime="1526.93"> euro </Word>
+      <Word dur="0.41" stime="1528.44"> naar </Word>
+      <Word dur="0.12" stime="1528.99"> de </Word>
+      <Word dur="0.54" stime="1529.12"> vermindering </Word>
+      <Word dur="0.15" stime="1529.66"> van </Word>
+      <Word dur="0.09" stime="1529.81"> de </Word>
+      <Word dur="0.93" stime="1529.9"> energiebelasting </Word>
+      <Word dur="1.26" stime="1530.86"> driehonderddrieënzeventig </Word>
+      <Word dur="0.24" stime="1532.15"> euro </Word>
+      <Word dur="1.05" stime="1532.39"> drieëndertig </Word>
+      <Word dur="0.21" stime="1535.54"> en </Word>
+      <Word dur="0.05" stime="1535.78"> de </Word>
+      <Word dur="0.54" stime="1535.83"> neppérus </Word>
+      <Word dur="0.46" stime="1536.4"> kostte </Word>
+      <Word dur="1.32" stime="1536.92"> tweehonderdzevenendertig </Word>
+      <Word dur="0.28" stime="1538.24"> euro </Word>
+      <Word dur="0.94" stime="1538.53"> achtenzeventig </Word>
+    </SpeechSegment>
+    <SpeechSegment spkid="M1">
+      <Word dur="0.11" stime="1540.31"> want </Word>
+      <Word dur="0.18" stime="1541.31"> dan </Word>
+      <Word dur="0.20" stime="1541.53"> moet </Word>
+      <Word dur="0.09" stime="1541.73"> ik </Word>
+      <Word dur="0.24" stime="1541.82"> van </Word>
+      <Word dur="0.66" stime="1542.09"> karen </Word>
+      <Word dur="0.18" stime="1542.78"> aan </Word>
+      <Word dur="0.51" stime="1542.96"> vrouwen </Word>
+      <Word dur="0.05" stime="1544.25"> en </Word>
+      <Word dur="0.15" stime="1544.68"> dan </Word>
+      <Word dur="0.28" stime="1545.03"> blijft </Word>
+      <Word dur="0.14" stime="1545.31"> ie </Word>
+    </SpeechSegment>
+    <SpeechSegment spkid="M1">
+      <Word dur="0.18" stime="1546.86"> die </Word>
+      <Word dur="0.61" stime="1547.04"> zesennegentig </Word>
+      <Word dur="0.20" stime="1547.65"> euro </Word>
+      <Word dur="0.83" stime="1547.85"> vijfenvijftig </Word>
+      <Word dur="0.36" stime="1548.69"> over </Word>
+    </SpeechSegment>
+    <SpeechSegment spkid="M1">
+      <Word dur="0.21" stime="1549.82"> zou </Word>
+      <Word dur="0.25" stime="1550.06"> kunnen </Word>
+    </SpeechSegment>
+    <SpeechSegment spkid="M1">
+      <Word dur="0.57" stime="1550.64"> oké </Word>
+      <Word dur="0.23" stime="1552.36"> dat </Word>
+      <Word dur="0.14" stime="1552.59"> is </Word>
+      <Word dur="0.30" stime="1553.76"> dat </Word>
+      <Word dur="0.09" stime="1554.09"> ze </Word>
+      <Word dur="0.46" stime="1554.19"> landelijk </Word>
+      <Word dur="0.38" stime="1554.66"> klokken </Word>
+      <Word dur="0.35" stime="1555.04"> maar </Word>
+      <Word dur="0.38" stime="1555.91"> kom </Word>
+    </SpeechSegment>
+    <SpeechSegment spkid="M1">
+      <Word dur="0.64" stime="1556.66"> nee </Word>
+      <Word dur="0.22" stime="1557.37"> nou </Word>
+      <Word dur="0.39" stime="1558.39"> helemaal </Word>
+      <Word dur="0.15" stime="1558.78"> ik </Word>
+      <Word dur="0.15" stime="1558.93"> werd </Word>
+      <Word dur="0.11" stime="1559.09"> ook </Word>
+      <Word dur="0.24" stime="1559.2"> helemaal </Word>
+      <Word dur="0.09" stime="1559.44"> in </Word>
+      <Word dur="0.42" stime="1559.53"> verwarring </Word>
+      <Word dur="0.42" stime="1559.95"> gebracht </Word>
+      <Word dur="0.22" stime="1560.48"> hoor </Word>
+      <Word dur="0.18" stime="1562.36"> maar </Word>
+      <Word dur="0.24" stime="1562.63"> dat </Word>
+      <Word dur="0.21" stime="1563.18"> dat </Word>
+      <Word dur="0.12" stime="1563.4"> is </Word>
+      <Word dur="0.14" stime="1563.52"> het </Word>
+      <Word dur="0.61" stime="1563.66"> verhaal </Word>
+    </SpeechSegment>
+    <SpeechSegment spkid="M1">
+      <Word dur="0.12" stime="1565.75"> dan </Word>
+      <Word dur="0.15" stime="1566.06"> is </Word>
+      <Word dur="0.47" stime="1566.64"> prima </Word>
+      <Word dur="0.49" stime="1568.23"> vertalen </Word>
+      <Word dur="0.38" stime="1568.83"> alcohol </Word>
+      <Word dur="0.21" stime="1569.29"> want </Word>
+      <Word dur="0.18" stime="1569.54"> eigenlijk </Word>
+      <Word dur="0.18" stime="1569.77"> wel </Word>
+      <Word dur="0.26" stime="1570.15"> weten </Word>
+      <Word dur="0.12" stime="1570.41"> hoe </Word>
+      <Word dur="0.06" stime="1570.53"> het </Word>
+      <Word dur="0.15" stime="1570.59"> zit </Word>
+    </SpeechSegment>
+    <SpeechSegment spkid="M1">
+      <Word dur="0.15" stime="1570.77"> want </Word>
+      <Word dur="0.22" stime="1571.45"> u </Word>
+      <Word dur="0.19" stime="1571.78"> heeft </Word>
+      <Word dur="0.23" stime="1571.98"> groot </Word>
+      <Word dur="0.42" stime="1572.21"> gelijk </Word>
+      <Word dur="0.18" stime="1572.69"> dat </Word>
+      <Word dur="0.10" stime="1572.87"> is </Word>
+      <Word dur="0.10" stime="1572.98"> een </Word>
+      <Word dur="0.18" stime="1573.08"> ding </Word>
+      <Word dur="0.15" stime="1573.26"> wat </Word>
+      <Word dur="0.39" stime="1573.41"> zeker </Word>
+      <Word dur="0.18" stime="1573.8"> is </Word>
+      <Word dur="0.24" stime="1573.98"> dus </Word>
+      <Word dur="0.15" stime="1574.91"> de </Word>
+      <Word dur="0.51" stime="1575.06"> bevestiging </Word>
+      <Word dur="0.12" stime="1575.57"> is </Word>
+      <Word dur="0.21" stime="1575.69"> naar </Word>
+      <Word dur="0.48" stime="1575.95"> onderweg </Word>
+      <Word dur="0.23" stime="1576.66"> werkt </Word>
+      <Word dur="0.16" stime="1576.91"> nu </Word>
+      <Word dur="0.06" stime="1577.07"> in </Word>
+      <Word dur="0.12" stime="1577.13"> ieder </Word>
+      <Word dur="0.42" stime="1577.25"> geval </Word>
+      <Word dur="0.32" stime="1578.28"> hoe </Word>
+      <Word dur="0.18" stime="1578.6"> of </Word>
+      <Word dur="0.45" stime="1578.78"> wat </Word>
+      <Word dur="0.21" stime="1580.88"> is </Word>
+      <Word dur="0.09" stime="1581.09"> er </Word>
+      <Word dur="0.24" stime="1581.18"> verder </Word>
+      <Word dur="0.17" stime="1581.42"> nog </Word>
+      <Word dur="0.09" stime="1581.59"> wat </Word>
+      <Word dur="0.11" stime="1581.72"> goed </Word>
+      <Word dur="0.20" stime="1582.37"> is </Word>
+      <Word dur="0.11" stime="1582.68"> er </Word>
+      <Word dur="0.11" stime="1582.84"> nog </Word>
+      <Word dur="0.15" stime="1582.95"> iets </Word>
+      <Word dur="0.30" stime="1584.18"> heet </Word>
+      <Word dur="0.16" stime="1584.48"> dat </Word>
+      <Word dur="0.20" stime="1585.26"> gaan </Word>
+      <Word dur="0.33" stime="1585.47"> doen </Word>
+    </SpeechSegment>
+    <SpeechSegment spkid="M1">
+      <Word dur="0.30" stime="1585.85"> nee </Word>
+      <Word dur="0.21" stime="1586.15"> daar </Word>
+      <Word dur="0.18" stime="1586.36"> was </Word>
+      <Word dur="0.07" stime="1586.54"> het </Word>
+      <Word dur="0.17" stime="1586.61"> één </Word>
+      <Word dur="0.13" stime="1586.77"> en </Word>
+      <Word dur="0.59" stime="1586.91"> uiteindelijk </Word>
+      <Word dur="0.22" stime="1588.32"> toch </Word>
+      <Word dur="0.22" stime="1588.56"> heel </Word>
+      <Word dur="0.22" stime="1589.02"> wat </Word>
+      <Word dur="0.29" stime="1589.52"> en </Word>
+      <Word dur="0.19" stime="1589.89"> maar </Word>
+      <Word dur="0.26" stime="1590.17"> kan </Word>
+      <Word dur="0.27" stime="1590.62"> bellen </Word>
+    </SpeechSegment>
+    <SpeechSegment spkid="M1">
+      <Word dur="0.10" stime="1590.92"> ze </Word>
+      <Word dur="0.18" stime="1591.1"> doen </Word>
+      <Word dur="0.41" stime="1591.73"> natuurlijk </Word>
+      <Word dur="0.18" stime="1592.14"> zou </Word>
+      <Word dur="0.07" stime="1592.32"> ik </Word>
+      <Word dur="0.18" stime="1592.39"> ook </Word>
+      <Word dur="0.18" stime="1592.57"> doen </Word>
+      <Word dur="0.28" stime="1592.77"> erg </Word>
+      <Word dur="0.22" stime="1593.08"> goed </Word>
+      <Word dur="0.25" stime="1593.59"> zodat </Word>
+      <Word dur="0.09" stime="1593.86"> u </Word>
+      <Word dur="0.18" stime="1593.95"> even </Word>
+      <Word dur="0.39" stime="1594.13"> gebeld </Word>
+      <Word dur="0.24" stime="1594.52"> heeft </Word>
+      <Word dur="0.21" stime="1595.18"> mag </Word>
+      <Word dur="0.09" stime="1595.39"> ik </Word>
+      <Word dur="0.13" stime="1595.48"> nog </Word>
+      <Word dur="0.20" stime="1595.61"> heel </Word>
+      <Word dur="0.27" stime="1595.81"> even </Word>
+      <Word dur="0.15" stime="1596.08"> meneer </Word>
+      <Word dur="0.47" stime="1596.23"> stoffels </Word>
+      <Word dur="0.12" stime="1596.71"> hè </Word>
+      <Word dur="0.18" stime="1596.83"> want </Word>
+      <Word dur="0.28" stime="1598.55"> staan </Word>
+      <Word dur="0.15" stime="1598.84"> hier </Word>
+      <Word dur="0.23" stime="1598.99"> niet </Word>
+      <Word dur="0.42" stime="1599.83"> compleet </Word>
+      <Word dur="0.09" stime="1600.25"> in </Word>
+      <Word dur="0.06" stime="1600.34"> het </Word>
+      <Word dur="0.48" stime="1600.4"> systeem </Word>
+      <Word dur="0.18" stime="1600.88"> wat </Word>
+      <Word dur="0.10" stime="1601.06"> is </Word>
+      <Word dur="0.14" stime="1601.16"> z'n </Word>
+      <Word dur="0.97" stime="1601.3"> geboortedatum </Word>
+      <Word dur="0.20" stime="1602.33"> vind </Word>
+      <Word dur="0.09" stime="1602.53"> ik </Word>
+      <Word dur="0.15" stime="1602.62"> dat </Word>
+      <Word dur="0.09" stime="1602.77"> daar </Word>
+      <Word dur="0.27" stime="1602.86"> even </Word>
+      <Word dur="0.15" stime="1603.13"> bij </Word>
+      <Word dur="0.36" stime="1603.28"> in </Word>
+    </SpeechSegment>
+    <SpeechSegment spkid="M1">
+      <Word dur="0.48" stime="1607.26"> acht </Word>
+      <Word dur="0.60" stime="1608.07"> negentien </Word>
+      <Word dur="1.11" stime="1608.87"> zesenvijftig </Word>
+      <Word dur="0.17" stime="1610.26"> en </Word>
+      <Word dur="0.14" stime="1610.43"> nu </Word>
+      <Word dur="0.38" stime="1610.8"> in </Word>
+      <Word dur="0.42" stime="1613.59"> chello </Word>
+      <Word dur="0.27" stime="1614.01"> punt </Word>
+      <Word dur="0.48" stime="1614.28"> nl </Word>
+      <Word dur="0.21" stime="1615.9"> ja </Word>
+      <Word dur="0.21" stime="1616.11"> dat </Word>
+      <Word dur="0.36" stime="1616.32"> klopt </Word>
+    </SpeechSegment>
+    <SpeechSegment spkid="M1">
+      <Word dur="0.34" stime="1617.14"> klopt </Word>
+      <Word dur="0.18" stime="1617.68"> die </Word>
+      <Word dur="0.09" stime="1617.86"> in </Word>
+      <Word dur="0.15" stime="1617.95"> ieder </Word>
+      <Word dur="0.21" stime="1618.1"> geval </Word>
+      <Word dur="0.36" stime="1618.31"> goed </Word>
+    </SpeechSegment>
+    <SpeechSegment spkid="M1">
+      <Word dur="0.32" stime="1619.6"> goed </Word>
+      <Word dur="0.24" stime="1620.11"> nou </Word>
+      <Word dur="0.09" stime="1620.35"> ik </Word>
+      <Word dur="0.18" stime="1620.44"> hoop </Word>
+      <Word dur="0.15" stime="1620.62"> dat </Word>
+      <Word dur="0.09" stime="1620.77"> het </Word>
+      <Word dur="0.14" stime="1620.86"> zo </Word>
+      <Word dur="0.12" stime="1621"> naar </Word>
+      <Word dur="0.24" stime="1621.17"> het </Word>
+      <Word dur="0.33" stime="1621.85"> allemaal </Word>
+      <Word dur="0.57" stime="1622.18"> opgelost </Word>
+      <Word dur="0.49" stime="1622.75"> is </Word>
+    </SpeechSegment>
+    <SpeechSegment spkid="M1">
+      <Word dur="0.36" stime="1623.8"> ja </Word>
+      <Word dur="0.19" stime="1624.35"> het </Word>
+      <Word dur="0.38" stime="1624.56"> prima </Word>
+      <Word dur="0.25" stime="1624.94"> zo </Word>
+      <Word dur="0.14" stime="1625.33"> nou </Word>
+      <Word dur="0.14" stime="1625.47"> weet </Word>
+      <Word dur="0.08" stime="1625.61"> ik </Word>
+      <Word dur="0.13" stime="1625.7"> hoe </Word>
+      <Word dur="0.09" stime="1625.86"> het </Word>
+      <Word dur="0.29" stime="1625.95"> zit </Word>
+    </SpeechSegment>
+    <SpeechSegment spkid="M1">
+      <Word dur="0.19" stime="1627.15"> goed </Word>
+      <Word dur="0.18" stime="1627.61"> nou </Word>
+      <Word dur="0.26" stime="1627.8"> bedankt </Word>
+      <Word dur="0.32" stime="1628.06"> vertellen </Word>
+      <Word dur="0.24" stime="1628.39"> meneer </Word>
+      <Word dur="0.08" stime="1628.63"> en </Word>
+      <Word dur="0.07" stime="1628.7"> dan </Word>
+      <Word dur="0.21" stime="1628.78"> wens </Word>
+      <Word dur="0.06" stime="1628.99"> ik </Word>
+      <Word dur="0.06" stime="1629.05"> u </Word>
+      <Word dur="0.12" stime="1629.11"> nog </Word>
+      <Word dur="0.06" stime="1629.23"> een </Word>
+      <Word dur="0.18" stime="1629.29"> hele </Word>
+      <Word dur="0.21" stime="1629.47"> fijne </Word>
+      <Word dur="0.21" stime="1629.68"> dag </Word>
+      <Word dur="0.18" stime="1629.89"> toe </Word>
+    </SpeechSegment>
+    <SpeechSegment spkid="M1">
+      <Word dur="0.39" stime="1630.67"> ja </Word>
+      <Word dur="0.38" stime="1632.13"> bedankt </Word>
+      <Word dur="0.27" stime="1634.84"> tot </Word>
+      <Word dur="0.44" stime="1635.27"> ziens </Word>
+      <Word dur="0.52" stime="1635.83"> daar </Word>
+    </SpeechSegment>
+  </SegmentList>
+</AudioDoc>
